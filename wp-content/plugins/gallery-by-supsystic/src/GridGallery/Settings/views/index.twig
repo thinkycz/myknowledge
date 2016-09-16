@@ -1,0 +1,48 @@
+{% extends 'grid-gallery.twig' %}
+
+{% block content %}
+
+    {% import '@core/helpers.twig' as h %}
+
+    <form action="{{ environment.generateUrl('settings', 'saveSettings') }}" method="POST">
+        {% block beforeSettingsList %}{% endblock %}
+        <div class="settings-list">
+            {% block beforeSettings %}{% endblock %}
+            <div class="settings">
+                <div class="setting-description">
+
+                    <label>{{ environment.translate('Roles') }}</label>
+                    {{ h.showTooltip('User roles that can use plugin. Administartor is included by default.', 'top', true) }}
+
+                    {% if environment.isPro() == false %}
+                        <a target="_blank" href="{{ build_pro_url({ 'utm_medium': 'manage_roles' }) }}">
+                            {{ environment.translate('PRO option') }}
+                        </a>
+                    {% endif %}
+                </div>
+                <div class="setting-control">
+                    <select multiple="multiple" name="settings[access_roles][]" class="chosen-select" data-placeholder="{{ ('Select avalilable roles to use tables.')}}">
+                        <option value="administrator" disabled selected>Administrator</option>
+                        {% set roles = {
+                            editor:'Editor',
+                            author:'Author',
+                            contributor:'Contributor',
+                            subscriber:'Subscriber'
+                        } %}
+                        {% for role, title in roles %}
+                            <option value="{{ role }}"
+                            {% if role in settings.access_roles %}
+                                selected="selected" 
+                            {% endif %}
+                            >{{ title }}
+                            </option>
+                        {% endfor %}
+                    </select>
+                </div>
+            </div>
+            {% block afterSettings %}{% endblock %}
+        </div>
+        {% block afterSettingsList %}{% endblock %}
+    </form>
+{% endblock %}
+

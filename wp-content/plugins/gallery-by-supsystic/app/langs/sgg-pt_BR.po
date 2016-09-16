@@ -1,0 +1,768 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Project-Id-Version: Portugu�s\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_BR\n"
+"X-Generator: Poedit 1.7.5\n"
+
+msgid "An error has occurred"
+msgstr "Ocorreu um erro"
+
+msgid "New Gallery"
+msgstr "Nova Galeria"
+
+msgid "Galleries"
+msgstr "Galerias"
+
+msgid "Images"
+msgstr "Imagens"
+
+msgid "Instagram"
+msgstr "Instagram"
+
+msgid "Flickr"
+msgstr "Flickr"
+
+msgid "Settings"
+msgstr "Configura��es"
+
+msgid "Get PRO"
+msgstr "Obter PRO"
+
+msgid "Loading"
+msgstr "Carregando"
+
+msgid "Empty user data."
+msgstr "Dados de usu�rio vazio."
+
+msgid "Gallery by Supsystic"
+msgstr ""
+
+msgid "Upload your images from the Flickr Media Library"
+msgstr "Fazer upload de suas imagens da biblioteca de m�dia do Flickr"
+
+msgid "Upload from Flickr"
+msgstr "Fazer o upload do Flickr"
+
+msgid "Rename folder"
+msgstr "Renomear pasta"
+
+msgid "Folder name:"
+msgstr "Nome da Pasta"
+
+msgid "Add images to the gallery"
+msgstr "Adicione imagens � esta galeria"
+
+msgid "Please wait while the plugin to get the list of galleries..."
+msgstr "Por favor espere enquanto o plugin carrega a lista de galerias"
+
+msgid "Select the gallery:"
+msgstr "Selecione a galeria:"
+
+msgid "New folder"
+msgstr "Nova pasta"
+
+#, fuzzy
+msgid "Add images to the new gallery"
+msgstr "Adicione imagens � esta galeria"
+
+msgid "Gallery title:"
+msgstr "T�tulo da galeria"
+
+msgid "Upload new images"
+msgstr "Upload novas imagens"
+
+msgid "Import images"
+msgstr "Importar imagens"
+
+msgid "Logout"
+msgstr "Logout"
+
+msgid "Select/unselect all photos"
+msgstr "Selecione/Descelecione todas as fotos"
+
+msgid "Refresh Images List"
+msgstr "Atualizar lista de Imagens"
+
+msgid "Add the selected items to the existing gallery"
+msgstr "Adicionar os itens selecionados � galeria existente"
+
+msgid "Add selected to the gallery"
+msgstr "Adicionar selecionados � galeria"
+
+msgid "Show icons"
+msgstr "Mostrar �cones"
+
+msgid "No"
+msgstr "N�o"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "Select effect"
+msgstr "Efeito selecionado"
+
+msgid "Icons color"
+msgstr "Cor dos �cones"
+
+msgid "Icons hover color"
+msgstr "Cor do �cone quando \"hover\""
+
+msgid "Background color"
+msgstr "Cor do Fundo"
+
+msgid "Background hover color"
+msgstr "Cor do fundo quando \"hover\""
+
+msgid "Icons size"
+msgstr "Tamanho dos �cones"
+
+msgid "Distance between icons"
+msgstr "Dist�ncia entre �cones"
+
+msgid "Show overlay"
+msgstr "Mostrar sobreposi��o"
+
+msgid "Overlay color"
+msgstr "Cor sobreposta"
+
+msgid "Overlay transparency"
+msgstr "Transpar�ncia sobreposta"
+
+msgid "Enable shuffling animation"
+msgstr "Habilitar anima��o aleat�ria"
+
+msgid "Animation duration"
+msgstr "Dura��o da anima��o"
+
+msgid "Posts layout"
+msgstr "Layout do Post"
+
+msgid "Posts layout style"
+msgstr "Estilo do layout do post"
+
+msgid "Posts"
+msgstr "Posts"
+
+msgid "Pages"
+msgstr "P�ginas"
+
+msgid "Show author"
+msgstr "Mostrar autor"
+
+msgid "Show date"
+msgstr "Mostrar data"
+
+msgid "Show contents"
+msgstr "Mostrar conte�do"
+
+msgid "Image"
+msgstr "Imagem"
+
+msgid "Author"
+msgstr "Autor"
+
+msgid "Title"
+msgstr "T�tulo"
+
+msgid "Comments"
+msgstr "Coment�rios"
+
+msgid "Type"
+msgstr "Fonte"
+
+msgid "Date"
+msgstr "Data"
+
+msgid "Show categories"
+msgstr "Mostrar categorias"
+
+msgid "Position"
+msgstr "Posi��o"
+
+msgid "Over the gallery"
+msgstr "Acima da galeria"
+
+msgid "Under the gallery"
+msgstr "Abaixo da galeria"
+
+msgid "Align"
+msgstr "Alinhamento"
+
+msgid "Left"
+msgstr "Esquerda"
+
+msgid "Center"
+msgstr "Centro"
+
+msgid "Right"
+msgstr "Direita"
+
+msgid "Container background"
+msgstr "Fundo do Container"
+
+msgid "Hide container background."
+msgstr "Esconder fundo do container"
+
+msgid "Text background"
+msgstr "Fundo do texto"
+
+msgid "Hide text background."
+msgstr "Esconder fundo do texto"
+
+msgid "Text color"
+msgstr "Cor do texto"
+
+msgid "Use color, based on my theme."
+msgstr "Usar cor, baseado em meu tema"
+
+msgid "Vertical padding"
+msgstr "Padding vertical"
+
+msgid "Horizontal padding"
+msgstr "Padding horizontal"
+
+msgid "Font weight"
+msgstr "Espessura da fonte"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "Bold"
+msgstr "Negrito"
+
+msgid "Font size"
+msgstr "Tamanho da fonte"
+
+msgid "Border width"
+msgstr "Tamanho da borda"
+
+msgid "Border type"
+msgstr "Tipo de borda"
+
+msgid "Border color"
+msgstr "Cor da borda"
+
+msgid "Border radius"
+msgstr "Border radius"
+
+msgid "Enable pagination"
+msgstr "Habilitar pagina��o"
+
+msgid "Images per page"
+msgstr "Imagens por p�gina"
+
+msgid "Buttons position"
+msgstr "Posi��o dos bot�es"
+
+msgid "Top"
+msgstr "Superior"
+
+msgid "Bottom"
+msgstr "Inferior"
+
+msgid "Select icons effects"
+msgstr "Selcionar efeitos dos �cones"
+
+msgid "Click on the icon to select effect"
+msgstr "Clicar no �cone para selecionar efeito"
+
+msgid "New gallery successfully created"
+msgstr "Nova Galeria criada com sucesso"
+
+msgid "Title successfully updated"
+msgstr "T�tulo atualizado com sucesso"
+
+msgid "Not enough data."
+msgstr "Sem dados suficientes"
+
+msgid "Preset successfully saved."
+msgstr "Pr�-defini��o salva com sucesso"
+
+msgid "The preset ID is not specified."
+msgstr "O ID desta pr�-defini��o n�o est� especificado"
+
+msgid "Preset successfully removed."
+msgstr "Pr�-defini��o removido com sucesso"
+
+msgid "Failed to find the preset."
+msgstr "Falhou em encontrar a Pr�-defini��o"
+
+msgid "Preset successfully applied to the gallery."
+msgstr "Pr�-defini��o aplicada com sucesso � galeria"
+
+msgid "Unnamed gallery"
+msgstr "Galeria sem nome"
+
+msgid "The identifier of the gallery is invalid"
+msgstr "O idenfiticador da galeria � inv�lido"
+
+msgid "Title is empty"
+msgstr "T�tulo est� vazio"
+
+msgid "Failed to rename the gallery"
+msgstr "Falhou em renomear a galeria"
+
+msgid "Invalid gallery identifier specified"
+msgstr "Inv�lido identificador da galeria especificado"
+
+msgid "Failed to delete the gallery"
+msgstr "Falhou em deletar a galeria"
+
+msgid "Resources are does not exists"
+msgstr "Recursos n�o existem"
+
+msgid "The identifier of the Gallery is not specified"
+msgstr "O identificador da galeria n�o est� especificado"
+
+msgid "New gallery"
+msgstr "Nova Galeria"
+
+msgid "Add selected items"
+msgstr "Adicionar itens selecionados"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Gallery by Supsystic"
+msgstr ""
+
+msgid "Add Images"
+msgstr "Adicione imagens"
+
+msgid "You need to import images to your gallery before you can start using galleries"
+msgstr "Voc� precisa importar imagens para sua galeria antes de come�ar a usar \"Galleries\""
+
+msgid "Remove selected"
+msgstr "Remover selecionados"
+
+msgid "Select/unselect all posts"
+msgstr "Selecionar/Descelecionar todos posts"
+
+msgid "Add new gallery"
+msgstr "Adicionar nova galeria"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Preview"
+msgstr "Pr�-visualizar"
+
+msgid "There are %s photos in the gallery %s"
+msgstr "Existem %s fotos na galeria %s"
+
+msgid "Select shortcode for the gallery "
+msgstr "Selecionar shortcode para a galeria"
+
+msgid "You have not any galleries"
+msgstr "Voc� n�o tem nenhuma galeria"
+
+msgid "You don't have any galleries yet."
+msgstr "Voc� n�o tem nenhuma galeria ainda"
+
+msgid "Want to create one right now?"
+msgstr "Quer criar uma bem agora?"
+
+msgid "What is a gallery"
+msgstr "O que � a galeria"
+
+msgid "<strong>Gallery</strong> — the highest type of entity in the Gallery by Supsystic."
+msgstr "<strong>Galeria</strong> — A entidade mais tipificada na galeria por Supsystic"
+
+msgid "You can have an unlimited number of galleries, to which you can attach the preloaded pictures and folders."
+msgstr "Voc� pode ter um n�mero ilimitado de galerias, para a qual voc� pode anexar as imagens pr�-carregas e pastas"
+
+msgid "Each gallery has a number of display settings and behaviors that you can save to presets and apply to other galleries."
+msgstr "Cada galeria tem um n�mero de configura��es de display e comportamentos que pode ser salvo em Pr�-defini��es e aplicados � outras galerias."
+
+msgid "Wanna know more?"
+msgstr "Quer saber mais?"
+
+msgid "Help"
+msgstr "Ajuda"
+
+msgid "Visit %s section to read more information about the galleries."
+msgstr "Visite %s se��o para ler mais informa��es sobre as galerias."
+
+msgid "Create new gallery"
+msgstr "Criar nova galeria"
+
+msgid "Gallery title can't be empty!"
+msgstr "T�tulo da galeria n�o pode ser vazio!"
+
+msgid "Save"
+msgstr "Salvar"
+
+msgid "Back to the gallery"
+msgstr "Voltar � galeria"
+
+msgid "Images list"
+msgstr "Lista de Imagens"
+
+msgid "Delete"
+msgstr "Deletar"
+
+msgid "Area"
+msgstr "Area"
+
+msgid "Border"
+msgstr "Borda"
+
+msgid "Shadow"
+msgstr "Sombra"
+
+msgid "Caption"
+msgstr "Sub�tulo"
+
+msgid "Big image"
+msgstr "Imagem grande"
+
+msgid "Icons"
+msgstr "�cones"
+
+msgid "Categories"
+msgstr "Categorias"
+
+msgid "Pagination"
+msgstr "Pagina��o"
+
+msgid "Images shuffling"
+msgstr "Imagens aleat�rias"
+
+msgid "Post feed"
+msgstr "Postar feed"
+
+msgid "Properties"
+msgstr "Propriedades"
+
+msgid "Grid"
+msgstr "Grade"
+
+msgid "Distance between photos"
+msgstr "Dist�ncias entre imagens"
+
+msgid "Gallery width"
+msgstr "Tamanho da Galeria"
+
+msgid "Gallery height"
+msgstr "Altura da galeria"
+
+msgid "Photo width"
+msgstr "Tamanho da imagem"
+
+msgid "Photo height"
+msgstr "Altura da imagem"
+
+msgid "Use shadow"
+msgstr "Aplicar sombra"
+
+msgid "When mouse is over"
+msgstr "Quando o mouse est� sobre "
+
+msgid "Overlay image with shadow"
+msgstr "Sobrepor imagem com sombra"
+
+msgid "Shadow color"
+msgstr "Cor da sombra"
+
+msgid "Shadow blur"
+msgstr "Desfoque da sombra"
+
+msgid "Shadow X"
+msgstr "Sombra X"
+
+msgid "Shadow Y"
+msgstr "Sombra Y"
+
+msgid "Effect"
+msgstr "Efeito"
+
+msgid "Show caption"
+msgstr "Mostrar subt�tulo"
+
+msgid "Choose effect"
+msgstr "Escolher efeito"
+
+msgid "Transparency"
+msgstr "Transpar�ncia"
+
+msgid "Text size"
+msgstr "Tamanho do texto"
+
+msgid "Text align"
+msgstr "Alinhamento do texto"
+
+msgid "Theme"
+msgstr "Tema"
+
+msgid "Choose theme"
+msgstr "Escolher tema"
+
+msgid "Transition"
+msgstr "Transi��o"
+
+msgid "Elastic"
+msgstr "El�stico"
+
+msgid "Fade"
+msgstr "Esmaecer"
+
+msgid "None"
+msgstr "Nenhum"
+
+msgid "Transition speed"
+msgstr "Velocidade da transi��o"
+
+msgid "Close speed"
+msgstr "Velocidade para fechar"
+
+msgid "Slideshow"
+msgstr "Slideshow"
+
+msgid "Disabled"
+msgstr "Desabilitado"
+
+msgid "Enabled"
+msgstr "Habilitado"
+
+msgid "Slideshow speed"
+msgstr "Velocidade da apresenta��o de imagems"
+
+msgid "Slideshow autostart"
+msgstr "Iniciar automaticamente apresenta��o de slides"
+
+msgid "Shortcode"
+msgstr "Shortcode"
+
+msgid "Use this shortcode to insert the gallery \"%s\" on the pages or posts."
+msgstr "Use este shortcode para inserir a galeria \"%s\" em p�ginas ou posts."
+
+msgid "If you new to current feature, then you can read more about shortcodes in the <a href=\"http://en.support.wordpress.com/shortcodes/\">official wordpress documentation</a>."
+msgstr "Se n�o est� familiarizado com shortcodes, ent�o visite a <a href=\"http://en.support.wordpress.com/shortcodes/\">documenta��o oficial do wordpress</a>"
+
+msgid "Cover"
+msgstr "Capa"
+
+msgid "Sort and orginize images with \"Categories\" option"
+msgstr "Ordene e organize imagens com a op��o  \"Categorias\""
+
+msgid "Save settings as preset"
+msgstr "Salvar configura��es como pr�-defini��o"
+
+msgid "Preset title:"
+msgstr "T�tulo do "
+
+msgid "Delete preset"
+msgstr "Deletar pr�-defini��o"
+
+msgid "Are you really want to delete preset \"%s\"?"
+msgstr "Voc� tem certeza que quer deletar a Pr�-defini��o \"%s\"?"
+
+msgid "Load settings from presets"
+msgstr "Carregar configura��es Pr�-definidas"
+
+msgid "Select preset:"
+msgstr "Selecionar pr�-defini��o:"
+
+msgid "Failed to load the presets."
+msgstr "Falhou em carregar as pr�-defini��es."
+
+msgid "Currently you have no presets."
+msgstr "Atualmente voc� n�o tem pr�-defini��es."
+
+msgid "Select \"Big image\" theme"
+msgstr "Selecione tema \"Big image\""
+
+msgid "Select a theme"
+msgstr "Selecione um tema"
+
+msgid "Select overlay effect"
+msgstr "Selecione efeito de sobrepor"
+
+msgid "Live preview"
+msgstr "Pre-visualizar"
+
+msgid "Page "
+msgstr "P�gina"
+
+msgid "Delete image"
+msgstr "Deletar imagem"
+
+msgid "Switch to the list view"
+msgstr "Trocar para vis�o em listas"
+
+msgid "Switch to the block view"
+msgstr "Trocar para vis�o em blocos"
+
+msgid "The gallery is does not exists"
+msgstr "A galeria n�o existe"
+
+msgid "Currently this gallery has no images"
+msgstr "Atualmente esta galerias n�o tem imagens"
+
+msgid "Authorization code is not specified."
+msgstr "C�digo de autoriza��o n�o foi especificado."
+
+msgid "Upload your images from the Instagram Media Library"
+msgstr "Fazer upload de suas imagens da biblioteca de m�dia do Instagram"
+
+msgid "Upload from Instagram"
+msgstr "Fazer upload do Instagram"
+
+msgid "Unable to save chosen photo %s: %s"
+msgstr "N�o pode salvar foto escolhida %s: %s"
+
+msgid "New Folder"
+msgstr "Nova pasta"
+
+msgid "The title can't be empty"
+msgstr "O t�tulo n�o pode ser vazio"
+
+msgid "Failed to update position."
+msgstr "Falhou em atualizar posi��o."
+
+msgid "Position updated successfully!"
+msgstr "Posi��o atualiza��o com sucesso!"
+
+msgid "Create new folder"
+msgstr "Criar nova pasta"
+
+msgid "Edit selected item"
+msgstr "Editar �cone selecionado"
+
+msgid "Delete selected items"
+msgstr "Deletar item selecionado"
+
+msgid "Create new gallery from the selected items"
+msgstr "Criar nova galeria a partir de um item selecionado"
+
+msgid "New gallery from selected"
+msgstr "Nova galeria a partir de um item selecionado"
+
+msgid "Upload your images from the Wordpress Media Library"
+msgstr "Upload suas imagens a partir da Biblioteca de media do wordpress"
+
+msgid "All photos"
+msgstr "Todas as fotos"
+
+msgid "Drop photos here to move them from the folder"
+msgstr "Solte suas imagens aqui para mov�-las de uma pasta"
+
+msgid "Lifetime for cached data"
+msgstr "Limite excedido para dados em cache"
+
+msgid "The field \"%s\" available only for numeric values"
+msgstr "O campo \"%s\" dispon�vel somente para valores num�ricos"
+
+msgid "Settings successfully updated!"
+msgstr "Configura��es foram atualizadas com sucesso!"
+
+msgid "Please correct following errors:"
+msgstr "Por favor corriga os erros a seguir:"
+
+msgid "<strong>%s</strong> has its own caching system in order to significantly reduce the load on the database."
+msgstr "<strong>%s</strong> tem seu pr�prio sistema de cache para reduzir significativamente a sobrecarga na base de dados."
+
+msgid "Caching is not available because your uploads directory is not writable."
+msgstr "Cachear n�o est� dispon�vel pois seus diret�rios de upload n�o podem ser escritos."
+
+msgid "The time in seconds after which the cache will be considered obsolete. Default: 86400 (24 hours)."
+msgstr "O tempo em segundos depois do qual o cache ser� considerado obsoleto. Default: 86400 (24 horas)."
+
+msgid "Clear cache"
+msgstr "Limpar cache"
+
+msgid "We don't collect statistics on you, we only collect the errors encountered during use in order to improve our product."
+msgstr "N�s n�o coletamos estat�sticas sobre voc�, n�s somente coletamos os erros encontrados durante o uso para melhorar nosso produto."
+
+msgid "Edit image"
+msgstr "Editar imagem"
+
+msgid "Main"
+msgstr "Principal"
+
+msgid "SEO"
+msgstr "SEO"
+
+msgid "Description"
+msgstr "Descri��o"
+
+msgid "Alternative text"
+msgstr "Texto alternativo"
+
+msgid "External link"
+msgstr "Link externo"
+
+msgid "Available in PRO version."
+msgstr "Dispon�vel na vers�o PRO."
+
+msgid "Link"
+msgstr "Link"
+
+msgid "Open in new window"
+msgstr "Abrir em uma nova janela"
+
+msgid "Embeded video"
+msgstr "Video em anexo"
+
+msgid "Video URL"
+msgstr "URL do v�deo"
+
+msgid "Supports Youtube and Vimeo. URL will be converted to embed automatically."
+msgstr "Suporta Youtube e Vimeo. URL ser� convertida em link automaticamente."
+
+msgid "File"
+msgstr "Arquivo"
+
+msgid "Select %s"
+msgstr "Selecione %s"
+
+msgid "photo"
+msgstr "Foto"
+
+msgid "photos"
+msgstr "Fotos"
+
+msgid "Video"
+msgstr "V�deo"
+
+msgid "Tags"
+msgstr "Tags"
+
+msgid "http://example.com/"
+msgstr "http://exemplo.com/"
+
+msgid "Open in new window."
+msgstr "Abrir em uma nova janela."
+
+msgid "Welcome to"
+msgstr "Bem vindo �"
+
+msgid "Version"
+msgstr "Vers�o"
+
+msgid "Google"
+msgstr "Google"
+
+msgid "Wordpress.org"
+msgstr "Wordpress.org"
+
+msgid "Reffer a friend"
+msgstr "Indicar para um amigo"
+
+msgid "Find on the web"
+msgstr "Encontrar na web"
+
+msgid "Other way"
+msgstr "Outro jeito"
+
+msgid "Thank for check info. Start using plugin"
+msgstr "Obrigador por checar os dados. Come�e usando o plugin"
+

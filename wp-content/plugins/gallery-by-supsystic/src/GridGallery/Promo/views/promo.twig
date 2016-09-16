@@ -1,0 +1,92 @@
+{% extends 'base.twig' %}
+
+{% block content %}
+    <section>
+        <div class="supsystic-item supsystic-panel supsystic-plugin supsystic-plugin-promo">
+            <div id="containerWrapper">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <h2>
+                            {{ environment.translate('Welcome to the') }} {{ plugin_name }} v {{ plugin_version }}
+                        </h2>
+                        <p class="col-sm-6">
+                            {{ environment.translate('Photo Gallery plugin is created for people who would like to show their photos in a marvelous way. Perform your best ideas, making delightful presentations or galleries from videos and photos.') }}
+                        </p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-8">
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <h3>{{ environment.translate('Step-by-step tutorial') }}</h3>
+                                <p>
+                                    {{ environment.translate('There’re really many options of photo gallery plugin customization. So as soon as you close that page, I’ll show you step-by-step tutorial of how to use plugin. Hope it will be usefull for you :)') }}
+                                </p>
+                            </div>
+                            <div class="col-sm-6">
+                                <h3>{{ environment.translate('Support') }}</h3>
+                                <p>
+                                    {{ environment.translate('We love our plugin and do the best to improve all features you want and fix all issues. But sometimes some issues happened or you can’t find feature you want :) Don’t worry, just <a href="//supsystic.com/plugins/photo-gallery?utm_source=plugin&utm_medium=welcomepage&utm_campaign=photo-gallery#contact" target="_blank"> contact us </a> . We’ll answer in an hour and fix all issues.')|raw }}
+                                </p>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <h3>{{ environment.translate('Video Tutorial') }}</h3>
+                                <iframe type="text/html"
+                                        width="90%"
+                                        height="330px"
+                                        src="https://www.youtube.com/embed/5bkjrlV14CE"
+                                        frameborder="0">
+                                </iframe>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <h3>
+                            {{ environment.translate('Frequently Asked Questions') }}
+                        </h3>
+
+                        <section>
+                            <h4>
+                                <a href="//supsystic.com/plugins/photo-gallery/?utm_source=plugin&utm_medium=welcomepagefaq&utm_campaign=photogallery#faq" target="_blank">{{ environment.translate('How to use pagination and categories feature of gallery?') }}</a>
+                            </h4>
+                            <ol>
+                                <li>{{ environment.translate('Activate “Available” radio button opposite the “Pagination” or “Categories” option on the Categories tab.') }}</li>
+                                <li>{{ environment.translate('Set the number of images per page.') }}</li>
+                                <li>{{ environment.translate('Choose one of the default presets or create your own.') }}</li>
+                                <li>{{ environment.translate('After configuring the settings click “Save” button.') }}</li>
+                            </ol>
+                            <p>{{ environment.translate('For more information for <a href="//supsystic.com/pagination/" target="_blank">Pagination</a> and for <a href="//supsystic.com/categories-gallery/" target="_blank">Categories</a>')|raw }}</p>
+                        </section>
+
+                        <section>
+                            <h4>
+                                {{ environment.translate('What is “Post Feed” Gallery') }}
+                            </h4>
+                            <ol>
+                                <li>{{ environment.translate('Go to Posts tab.') }}</li>
+                                <li>{{ environment.translate('Select “Enable” in Posts Layout dropdown list to activate the posts option.') }}</li>
+                                <li>{{ environment.translate('Choose one of post layout styles.') }}</li>
+                                <li>{{ environment.translate('Add pages and posts.') }}</li>
+                                <li>{{ environment.translate('Choose what to show on posts layout in gallery.') }}</li>
+                                <li>{{ environment.translate('After configuring the settings click “Save” button.') }}</li>
+                            </ol>
+                            <p>{{ environment.translate('Learn more about how to do this <a href="//supsystic.com/plugins/photo-gallery/#faq" target="_blank">here</a>.')|raw }}</p>
+                        </section>
+
+                        <section>
+                            <h4>
+                                <a href="//supsystic.com/plugins/photo-gallery/?utm_source=plugin&utm_medium=welcomepagefaq&utm_campaign=photogallery#faq" target="_blank">{{ environment.translate('All other FAQs') }}</a>
+                            </h4>
+                        </section>
+
+                        <div style="clear: both;"></div>
+                        <a href="{{ start_url }}" class="button button-primary button-hero">{{ environment.translate('Let\'s Start!') }}</a>
+                    </div>
+                </div>
+                <div style="clear: both;"></div>
+            </div>
+        </div>
+    </section>
+{% endblock %}

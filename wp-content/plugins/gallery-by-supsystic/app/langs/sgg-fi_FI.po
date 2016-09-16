@@ -1,0 +1,886 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Juhani Honkanen <juhani.honkanen@dnainternet.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fi_FI\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "An error has occurred"
+msgstr "Tapahtui virhe."
+
+msgid "Overview"
+msgstr "Yleiskatsaus"
+
+msgid "New Gallery"
+msgstr "Uusi Galleria"
+
+msgid "Galleries"
+msgstr "Galleriat"
+
+msgid "License"
+msgstr "Lisenssi"
+
+msgid "Images"
+msgstr "Kuvat"
+
+msgid "Instagram"
+msgstr "Instagram"
+
+msgid "Flickr"
+msgstr "Flickr"
+
+msgid "Tumblr"
+msgstr "Tumblr"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Settings"
+msgstr "Asetukset"
+
+msgid "Get PRO"
+msgstr "Hanki PRO versio"
+
+msgid "Loading"
+msgstr "Lataa"
+
+msgid "Authorization code is not specified."
+msgstr "Valtuutus koodia ei ole määritelty"
+
+msgid "Gallery by Supsystic"
+msgstr "Galleria Supsysticiltä"
+
+msgid "Upload your images from the Facebook Media Library"
+msgstr "Lataa kuvat Facebookin Media Librarysta"
+
+msgid "Upload from Facebook"
+msgstr "Lataa Facebookista"
+
+msgid "Upload new images"
+msgstr "Lataa uusi kuva"
+
+msgid "Import images"
+msgstr "Tuo kuvat"
+
+msgid "Logout"
+msgstr "Kirjaudu ulos"
+
+msgid "Select/unselect all photos"
+msgstr "Valitse/poista valinta kaikista kuvista"
+
+msgid "Empty user data."
+msgstr "Käyttäjällä ei ole tiedostoja"
+
+msgid "Upload your images from the Flickr Media Library"
+msgstr "Lataa kuvasi Flickr Media Librarysta"
+
+msgid "Upload from Flickr"
+msgstr "Lataa Flickrista"
+
+msgid "Show icons"
+msgstr "Näytä kuvakkeet"
+
+msgid "No"
+msgstr "Ei"
+
+msgid "Yes"
+msgstr "Kyllä"
+
+msgid "Available"
+msgstr "Saatavilla"
+
+msgid "Disable"
+msgstr "Pois käytöstä"
+
+msgid "Select effect"
+msgstr "Valitse tehoste"
+
+msgid "Animation"
+msgstr "Animaatio"
+
+msgid "Icons color"
+msgstr "Kuvakkeen väri"
+
+msgid "Icons hover color"
+msgstr "Kuvakkeen korostuksen väri"
+
+msgid "Background color"
+msgstr "Taustan väri"
+
+msgid "Background hover color"
+msgstr "Taustan korostuksen väri"
+
+msgid "Icons size"
+msgstr "Kuvakkeen koko"
+
+msgid "Distance between icons"
+msgstr "Kuvakkeiden väli"
+
+msgid "Show overlay"
+msgstr "Lyhyt peite"
+
+msgid "Overlay color"
+msgstr "Peitteen väri"
+
+msgid "Overlay transparency"
+msgstr "Peitteen läpinäkyvyys"
+
+msgid "Posts layout"
+msgstr "Postien asettelu"
+
+msgid "Posts layout style"
+msgstr "Postien asettelun tyyli"
+
+msgid "Posts"
+msgstr "Postit"
+
+msgid "Pages"
+msgstr "Sivut"
+
+msgid "Show author"
+msgstr "Näytä kirjoittaja"
+
+msgid "Show date"
+msgstr "Näytä päiväys"
+
+msgid "Show contents"
+msgstr "Näytä sisältö"
+
+msgid "Show categories"
+msgstr "Näytä kategoriat"
+
+msgid "Enable shuffling animation"
+msgstr "Valitse sekoitettu animaatio"
+
+msgid "Animation duration"
+msgstr "Animaation kesto"
+
+msgid "Position"
+msgstr "Paikka"
+
+msgid "Over the gallery"
+msgstr "Gallerian yllä"
+
+msgid "Under the gallery"
+msgstr "Gallerian alla"
+
+msgid "Align"
+msgstr "Kohdistus"
+
+msgid "Left"
+msgstr "Vasen"
+
+msgid "Center"
+msgstr "Keskellä"
+
+msgid "Right"
+msgstr "Oikea"
+
+msgid "Choose preset"
+msgstr "Valitse esiasetus"
+
+msgid "Preset Editor"
+msgstr "Esiasetuksen muokkaus"
+
+msgid "Enable pagination"
+msgstr "Valitse sivunumerointi"
+
+msgid "Pagination"
+msgstr "Sivunumerointi"
+
+msgid "Images per page"
+msgstr "Kuvia sivulla"
+
+msgid "Buttons position"
+msgstr "Napin paikka"
+
+msgid "Top"
+msgstr "Ylhäällä"
+
+msgid "Bottom"
+msgstr "Alhaalla"
+
+msgid "Container background"
+msgstr "Säilön tausta"
+
+msgid "Hide container background."
+msgstr "Piilota säilön tausta"
+
+msgid "Text background"
+msgstr "Tekstin tausta"
+
+msgid "Hide text background."
+msgstr "Piilota tekstin tausta"
+
+msgid "Text color"
+msgstr "Tekstin väri"
+
+msgid "Use color, based on my theme."
+msgstr "Käytä teemaan perustuvaa väriä"
+
+msgid "Vertical padding"
+msgstr "Pystysuora täyte"
+
+msgid "Horizontal padding"
+msgstr "Vaakasuora täyte"
+
+msgid "Font weight"
+msgstr "Fontin paksuus"
+
+msgid "Font size"
+msgstr "Fontin koko"
+
+msgid "Border width"
+msgstr "Reunuksen leveys"
+
+msgid "Border type"
+msgstr "Reunuksen tyyppi"
+
+msgid "Border color"
+msgstr "Reunuksen väri"
+
+msgid "Border radius"
+msgstr "Reunuksen säde"
+
+msgid "Select icons effects"
+msgstr "Valitse kuvakkeen tehoste"
+
+msgid "Click on the icon to select effect"
+msgstr "Klikkaa kuvaketta valitaksesi tehosteen"
+
+msgid "Categories preset editor"
+msgstr "Kategorioiden esiasetusten muokkaus"
+
+msgid "Preset name"
+msgstr "Esiasetuksen nimi"
+
+msgid "Normal"
+msgstr "Normaali"
+
+msgid "Bold"
+msgstr "Lihavoitu"
+
+msgid "Pages preset editor"
+msgstr "Sivujen esiasetusten muokkaus"
+
+msgid "Check"
+msgstr "Tarkista"
+
+msgid "Authorization oauth_verifier is not specified."
+msgstr "Varmistusta ei tehty,todennusta ei määritelty"
+
+msgid "Upload your images from the Tumblr Media Library"
+msgstr "Lataa kuvat Thumbr Media Librarysta"
+
+msgid "Upload from Tumblr"
+msgstr "Lataa Thumblista"
+
+msgid "New gallery successfully created"
+msgstr "Uuden gallerian luonti onnistui"
+
+msgid "Title successfully updated"
+msgstr "Otsikon päivitys onnistui"
+
+msgid "Not enough data."
+msgstr "Ei tarpeeksi tietoa"
+
+msgid "Preset successfully saved."
+msgstr "Esiasetus tallennettu"
+
+msgid "The preset ID is not specified."
+msgstr "Esiasetuksen ID:tä ei määritetty"
+
+msgid "Preset successfully removed."
+msgstr "Esiasetus poistettu"
+
+msgid "Failed to find the preset."
+msgstr "Esiasetusta ei löytynyt"
+
+msgid "Preset successfully applied to the gallery."
+msgstr "Esiasetus otettu käyttöön galleriassa"
+
+msgid "Unnamed gallery"
+msgstr "Nimeämätön galleria"
+
+msgid "The identifier of the gallery is invalid"
+msgstr "Gallerian todennus on väärä"
+
+msgid "Title is empty"
+msgstr "Otsikko on tyhjä"
+
+msgid "Failed to rename the gallery"
+msgstr "Ei voi nimetä galleria uudestaan"
+
+msgid "Invalid gallery identifier specified"
+msgstr "Väärä gallerian todentajan määritys"
+
+msgid "Failed to delete the gallery"
+msgstr "Ei voi poistaa galleriaa"
+
+msgid "Resources are does not exists"
+msgstr "Resurssia ei ole olemassa"
+
+msgid "The identifier of the Gallery is not specified"
+msgstr "Gallerian todentajaa ei ole määritelty"
+
+msgid "New gallery"
+msgstr "Uusi galleria"
+
+msgid "Add selected items"
+msgstr "Lisää valitut kohteet"
+
+msgid "Cancel"
+msgstr "Peruuta"
+
+msgid "You need to import images to your gallery before you can start using galleries"
+msgstr "Sinun pitää tuoda kuvia galleriaan ennen kuin voit käyttää galleriaa"
+
+msgid "Choose image"
+msgstr "Valitse kuva"
+
+msgid "Create new gallery"
+msgstr "Tee uusi galleria"
+
+msgid "Choose Gallery Template.You can change template and settings on the next step."
+msgstr "Valitse gallerian ulkoasu. Voit vaihtaa ulkoasun ja asetuksen seuraavassa vaiheessa"
+
+msgid "Gallery Name:"
+msgstr "Gallerian nimi:"
+
+msgid "Save"
+msgstr "Tallenna"
+
+msgid "Choose Gallery Template."
+msgstr "Valitse gallerian ulkoasu."
+
+msgid "Remove selected"
+msgstr "Poista valitut"
+
+msgid "Select/unselect all posts"
+msgstr "Valitse / poista valinta kaikista posteista"
+
+msgid "Images List"
+msgstr "Kuva luettelo"
+
+msgid "Preview"
+msgstr "Esikatselu"
+
+msgid "Add Images"
+msgstr "Lisää kuva"
+
+msgid "Delete gallery"
+msgstr "Poista galleria"
+
+msgid "Total Images: "
+msgstr "Kuvia kaikkiaan:"
+
+msgid "There are %s photos in the gallery %s"
+msgstr "Täällä on %s kuvaa galleriassa %s"
+
+msgid "Shortcode: "
+msgstr "Lyhytkoodi:"
+
+msgid "Select shortcode for the gallery "
+msgstr "Valitse gallerian lyhytkoodi"
+
+msgid "Phpcode: "
+msgstr "Phpkoodi:"
+
+msgid "Select phpcode for the gallery "
+msgstr "Valitse gallerian phpkoodi"
+
+msgid "You have not any galleries"
+msgstr "Sinulla ei ole yhtään galleriaa"
+
+msgid "You don't have any galleries yet."
+msgstr "Sinulla ei ole vielä yhtään galleriaa"
+
+msgid "Want to create one right now?"
+msgstr "Haluatko tehdä gallerian nyt?"
+
+msgid "What is a gallery"
+msgstr "Mikä on galleria"
+
+msgid "<strong>Gallery</strong> â the highest type of entity in the Gallery by Supsystic."
+msgstr "<strong>Galleria</strong> korkein yksikkötyyppi Supsysticin Galleriasta."
+
+msgid "You can have an unlimited number of galleries, to which you can attach the preloaded pictures and folders."
+msgstr "Sinulla on lukematon määrä gallerioita, joihin voit liittää esiladattuja kuvia ja kansioita"
+
+msgid "Each gallery has a number of display settings and behaviors that you can save to presets and apply to other galleries."
+msgstr "Jokaisella gallerialla on useita näyttöasetuksia ja malleja, joita voit soveltaa ja käyttää muissa gallerioissa"
+
+msgid "Gallery title can't be empty!"
+msgstr "Gallerian otsikko ei voi olla tyhjä"
+
+msgid "Gallery title:"
+msgstr "Gallerian otsikko:"
+
+msgid "Back to the gallery"
+msgstr "Takaisin galleriaan"
+
+msgid "Main"
+msgstr "Päätaso"
+
+msgid "Captions"
+msgstr "Kuvatekstit"
+
+msgid "Categories"
+msgstr "Kategoriat"
+
+msgid "Images list"
+msgstr "Kuvaluettelo"
+
+msgid "Choose image for preview"
+msgstr "Valitse esikatselu kuva"
+
+msgid "Shortcode:"
+msgstr "Lyhytkoodi:"
+
+msgid "Gallery Type"
+msgstr "Gallerian tyyppi"
+
+msgid "Images distance"
+msgstr "Kuvien etäisyys"
+
+msgid "Gallery width"
+msgstr "Gallerian leveys"
+
+msgid "Gallery height"
+msgstr "Gallerian korkeus"
+
+msgid "Image width"
+msgstr "Kuvan leveys"
+
+msgid "Image height"
+msgstr "Kuvan korkeus"
+
+msgid "Image radius"
+msgstr "Kuvan säde"
+
+msgid "Border"
+msgstr "Reunus"
+
+msgid "Border Type"
+msgstr "Reunuksen tyyppi"
+
+msgid "Shadow"
+msgstr "Varjo"
+
+msgid "Shadow preset"
+msgstr "Varjon esiasetus"
+
+msgid "When mouse is over"
+msgstr "Kun hiiri on päällä"
+
+msgid "Off"
+msgstr "Pois"
+
+msgid "Show mouse on"
+msgstr "Näytä hiiri päällä"
+
+msgid "Hide mouse on"
+msgstr "Piilota hiiri päällä"
+
+msgid "Overlay image with shadow"
+msgstr "Peitekuva varjolla"
+
+msgid "Shadow color"
+msgstr "Varjon väri"
+
+msgid "Shadow blur"
+msgstr "Varjon sumennus"
+
+msgid "Shadow X"
+msgstr "Varjo X"
+
+msgid "Shadow Y"
+msgstr "Varjo Y"
+
+msgid "Pop-up Image"
+msgstr "Pop-up kuva"
+
+msgid "Choose theme"
+msgstr "Valitse ulkoasu"
+
+msgid "Disable Popup"
+msgstr "Poista pop-up käytöstä"
+
+msgid "Disable on mobile"
+msgstr "Poista mobiilista"
+
+msgid "Hide Popup Captions"
+msgstr "Piilota pop-up kuvatekstit"
+
+msgid "Theme"
+msgstr "Ulkoasu"
+
+msgid "Transition"
+msgstr "Siirtymä"
+
+msgid "Choose effect"
+msgstr "Valitse tehoste"
+
+msgid "Elastic"
+msgstr "Elastinen"
+
+msgid "Fade"
+msgstr "Häivytys"
+
+msgid "None"
+msgstr "Ei mitään"
+
+msgid "Transition speed"
+msgstr "Siirtymän nopeus"
+
+msgid "Close speed"
+msgstr "Sulje nopeus"
+
+msgid "Slideshow"
+msgstr "Slideshow"
+
+msgid "Slideshow speed"
+msgstr "Slideshown nopeus"
+
+msgid "Slideshow autostart"
+msgstr "Käynnistä slideshow automaattisesti"
+
+msgid "Effect"
+msgstr "Tehoste"
+
+msgid "Show caption"
+msgstr "Näytä kuvateksti"
+
+msgid "Transparency"
+msgstr "Läpinäkyvyys"
+
+msgid "Text size"
+msgstr "Tekstin koko"
+
+msgid "Text align"
+msgstr "Tekstin kohdistus"
+
+msgid "Categorize images in the gallery"
+msgstr "Kategorioi gallerian kuvat"
+
+msgid "Let user switch gallery pages"
+msgstr "Salli käyttäjän vaihtaa gallerian sivuja"
+
+msgid "Save settings as preset"
+msgstr "Tallenna asetukset esiasetuksiksi"
+
+msgid "Preset title:"
+msgstr "Esiasetus otsikko:"
+
+msgid "Delete preset"
+msgstr "Poista esiasetus"
+
+msgid "Are you really want to delete preset \"%s\"?"
+msgstr "Haluatko varmasti poistaa esiasetuksen  \"%s\"?"
+
+msgid "Load settings from presets"
+msgstr "Lataa asetukset esiasetuksista"
+
+msgid "Select preset:"
+msgstr "Vallitse esiasetus:"
+
+msgid "Failed to load the presets."
+msgstr "Esiasetuksen lataaminen ei onnistu"
+
+msgid "Currently you have no presets."
+msgstr "Sinulla ei ole tällä hetkelle esiasetuksia"
+
+msgid "Select \"Big image\" theme"
+msgstr " Valitse \"Big image\" ulkoasu"
+
+msgid "Select a theme"
+msgstr "Valitse ulkoasu"
+
+msgid "Select"
+msgstr "Valitse"
+
+msgid "Select overlay effect"
+msgstr "Valitse peitteen tehoste"
+
+msgid "Select transition"
+msgstr "Valitse siirtymä"
+
+msgid "Select shadow preset"
+msgstr "Valitse varjon esiasetus"
+
+msgid "Select shadow"
+msgstr "Valitse varjo"
+
+msgid "Page "
+msgstr "Sivu"
+
+msgid "Choose source"
+msgstr "Valitse lähde"
+
+msgid "Import from WordPress Media Library"
+msgstr "Tuo WordPressin Media Librarystä"
+
+msgid "Import from social networks"
+msgstr "Tuo sosiaalisesta verkosta"
+
+msgid "Import from your Instagram account"
+msgstr "Tuo Instagram tililtä"
+
+msgid "Import from your Flickr account"
+msgstr "Tuo Flickrin tililtä"
+
+msgid "Import from your Tumblr account"
+msgstr "Tuo Thumblr:n tililtä"
+
+msgid "Import from your Facebook account"
+msgstr "Tuo Facebookin tililtä"
+
+msgid "Get Pro to enable import"
+msgstr "Hanki Pro versio valitaksesi tuonnit"
+
+msgid "Get PRO for 29$"
+msgstr "Hanki Pro versio 29$ :lla"
+
+msgid "Properties"
+msgstr "Ominaisuudet"
+
+msgid "Delete Image"
+msgstr "Poista kuva"
+
+msgid "Switch to the list view"
+msgstr "Vaihda luettelo näkymään"
+
+msgid "Switch to the block view"
+msgstr "Vaihda lohko näkymään"
+
+msgid "The gallery is does not exists"
+msgstr "Galleriaa ei ole olemassa"
+
+msgid "Currently this gallery has no images"
+msgstr "Galleriassa ei ole tällä hetkellä kuvia"
+
+msgid "Select source to import from"
+msgstr "Valitse lähde tuodaksesi"
+
+msgid "Upload your images from the Instagram Media Library"
+msgstr "Lataa kuvat Instagrammin Media Librarystä"
+
+msgid "Upload from Instagram"
+msgstr "Lataa Instagrammista"
+
+msgid "Your name"
+msgstr "Nimi"
+
+msgid "Your email"
+msgstr "Sähköpostiosoite"
+
+msgid "Website"
+msgstr "Kotisivu"
+
+msgid "Subject"
+msgstr "Kohde"
+
+msgid "Topic"
+msgstr "Aihe"
+
+msgid "Plugin options"
+msgstr "Lisäosan valinnat"
+
+msgid "Report a bug"
+msgstr "Ilmoita virheestä"
+
+msgid "Require a new functionallity"
+msgstr "Pyydä uutta toimintoa"
+
+msgid "Other"
+msgstr "Muu"
+
+msgid "Type your message"
+msgstr "Kirjoita viestisi"
+
+msgid "Unable to save chosen photo %s: %s"
+msgstr "Ei voi tallentaa valittua kuvaa %s: %s"
+
+msgid "New Folder"
+msgstr "Uusi kansio"
+
+msgid "The title can't be empty"
+msgstr "Otsikko ei voi olla tyhjä"
+
+msgid "Failed to update position."
+msgstr "Paikan päivitys ei onnistunut"
+
+msgid "Position updated successfully!"
+msgstr "Paikka päivitetty!"
+
+msgid "Rename folder"
+msgstr "Nimeä kansio uudelleen"
+
+msgid "Folder name:"
+msgstr "Kansion nimi:"
+
+msgid "Add images to the gallery"
+msgstr "Lisää kuva galleriaan"
+
+msgid "Please wait while the plugin to get the list of galleries..."
+msgstr "Odota kun lisäosa tekee galleria luettelon..."
+
+msgid "Select the gallery:"
+msgstr "Valitse galleria:"
+
+msgid "New folder"
+msgstr "Uusi kansio"
+
+msgid "Add images to the new gallery"
+msgstr "Lisää kuva uuteen galleriaan"
+
+msgid "Create new folder"
+msgstr "Tee uusi kansio"
+
+msgid "Edit selected item"
+msgstr "Muokkaa valittua kohdetta"
+
+msgid "Delete selected items"
+msgstr "Poista valittu kohde"
+
+msgid "Create new gallery from the selected items"
+msgstr "Tee uusi galleria valituista kohteista"
+
+msgid "New gallery from selected"
+msgstr "Uusi galleria valituista"
+
+msgid "Add the selected items to the existing gallery"
+msgstr "Lisää valitut kohteet olemassaolevaan galleriaan"
+
+msgid "Add selected to the gallery"
+msgstr "Lisää valitut galleriaan"
+
+msgid "Upload your images from the WordPress Media Library"
+msgstr "Lataa kuvasi WordPressin Media Librarysta"
+
+msgid "All photos"
+msgstr "Kaikki kuvat"
+
+msgid "Drop photos here to move them from the folder"
+msgstr "Pudota kuvat tähän siirtääksesi ne kansiosta"
+
+msgid "Lifetime for cached data"
+msgstr "Välimuistituksen ikä"
+
+msgid "The field \"%s\" available only for numeric values"
+msgstr "Kenttä \"%s\"  saatavilla vain numero arvoille"
+
+msgid "Settings successfully updated!"
+msgstr "Asetukset päivitetty!"
+
+msgid "Please correct following errors:"
+msgstr "Korjaa seuraavat virheet:"
+
+msgid "<strong>%s</strong> has its own caching system in order to significantly reduce the load on the database."
+msgstr "<strong>%s</strong> on oma välimuisti järjestelmä, joka merkittävästi vähentää kuormitusta tietokantaan."
+
+msgid "Use this option only if all your galleries are setting correctly and you dont need to change settings soon"
+msgstr "Käytä tätä valintaa vain jos kaikkien gallerioidesi asetukset on oikein ja sinun ei tarvitse vaihtaa asetuksia lähiaikoina"
+
+msgid "Caching is not available because your uploads directory is not writable."
+msgstr "Välimuistitus ei ole mahdollista koska sinun lataus hakemistosi ei ole kirjoitettavissa"
+
+msgid "The time in seconds after which the cache will be considered obsolete. Default: 86400 (24 hours)."
+msgstr "Aika sekunteina, jonka jälkeen välimuisti katsotaan vanhentuneeksi. Oletus: 86400 (24 tuntia)"
+
+msgid "Clear cache"
+msgstr "Tyhjennä välimuisti"
+
+msgid "We don't collect statistics on you, we only collect the errors encountered during use in order to improve our product."
+msgstr "Emme kerää tietoja sinusta, keräämme vain virhetilanteita, jotta voimme parantaa tuotettamme."
+
+msgid "Edit image"
+msgstr "Muokkaa kuvaa"
+
+msgid "Caption"
+msgstr "Kuvateksti"
+
+msgid "SEO"
+msgstr "SEO"
+
+msgid "Description"
+msgstr "Kuvaus"
+
+msgid "Alternative text"
+msgstr "Vaihtoehtoinen teksti"
+
+msgid "External link"
+msgstr "Ulkoinen linkki"
+
+msgid "Available in PRO version."
+msgstr "Saatavilla PRO versiossa"
+
+msgid "Link"
+msgstr "Linkki"
+
+msgid "Open in new window"
+msgstr "Avaa uudessa ikkunassa"
+
+msgid "Embeded video"
+msgstr "Upotettu video"
+
+msgid "Video URL"
+msgstr "Videon URL"
+
+msgid "Supports Youtube and Vimeo. URL will be converted to embed automatically."
+msgstr "Tukee Youtubea ja Vimeota. URL muutetaan upotetuksi automaattisesti."
+
+msgid "Image"
+msgstr "Kuva"
+
+msgid "Date"
+msgstr "Päivämäärä"
+
+msgid "Select %s"
+msgstr "Valitse %s"
+
+msgid "photo"
+msgstr "kuva"
+
+msgid "photos"
+msgstr "kuvat"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "http://example.com/"
+msgstr "http://esimerkki.com/"
+
+msgid "Open in new window."
+msgstr "Avaa uudessa ikkunassa"
+
+msgid "Welcome to"
+msgstr "Tervetuloa"
+
+msgid "Version"
+msgstr "Versio"
+
+msgid "Google"
+msgstr "Google"
+
+msgid "Wordpress.org"
+msgstr "Wordpress.org"
+
+msgid "Reffer a friend"
+msgstr "Ystävä suositteli"
+
+msgid "Find on the web"
+msgstr "Löysin netistä"
+
+msgid "Other way"
+msgstr "Muuta kautta"
+
+msgid "Thank for check info. Start using plugin"
+msgstr "Kiitos tarkistus tiedoista. Aloita lisäosan käyttö"

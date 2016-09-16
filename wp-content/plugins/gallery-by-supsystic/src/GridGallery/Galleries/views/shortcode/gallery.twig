@@ -1,0 +1,169 @@
+{% import '@galleries/shortcode/style.twig' as style %}
+
+{% if gallery is defined and gallery is not empty %}
+	{% block gallery_before %}
+		{% if settings.icons is defined and settings.icons.enabled == 'true' %}
+			<style>
+				 #grid-gallery-{{ gallery.id }} .{{ settings.icons.effect }} .hi-icon { color: {{ settings.icons.color }} !important; background: {{ settings.icons.background }} !important; }
+				 #grid-gallery-{{ gallery.id }} .{{ settings.icons.effect }} .hi-icon:hover { color: {{ settings.icons.hover_color }} !important; background: {{ settings.icons.background_hover }} !important; }
+				 #grid-gallery-{{ gallery.id }} .hi-icon { width: {{ settings.icons.size * 2 }}px !important; height: {{ settings.icons.size * 2 }}px !important; }
+				 #grid-gallery-{{ gallery.id }} .hi-icon:before { font-size: {{ settings.icons.size|default(16) }}px !important; line-height: {{ settings.icons.size * 2 }}px !important; }
+			</style>
+		{% endif %}
+	{% endblock %}
+
+	<section
+		{% block gallery_attributes %}
+			id="grid-gallery-{{ gallery.id }}"
+			data-grid-type="{{ settings.area.grid }}"
+			data-offset="{{ settings.area.distance }}"
+			data-area-position="{{ settings.area.position }}"
+			{% if settings.area.grid == '2' %}
+			data-width="auto"
+				{% else %}
+					data-width="{{ settings.area.photo_width }}{% if settings.area.photo_width_unit == 1 %}%{% endif %}"
+			{% endif %}
+			data-preloader = "{{ settings.preload.enabled }}"
+			data-width="{{ settings.area.photo_width }}{% if settings.area.photo_width_unit == 1 %}%{% endif %}"
+			data-height="{{ settings.area.photo_height }}{% if settings.area.photo_height_unit == 1 %}%{% endif %}"
+			data-padding="{{ settings.area.padding }}"
+			data-quicksand = "{% if settings.quicksand.enabled == '1' %}enabled{% else %}disabled{% endif %}"
+			data-quicksand-duration = "{% if settings.quicksand.duration is not empty %}{{ settings.quicksand.duration }}{% else %}none{% endif %}"
+				{% if settings.box.enabled is defined and settings.box.enabled == 'false' %}
+					data-popup-type = "disable"
+				{% else %}
+					data-popup-theme = {{ settings.box.theme }}
+				{% endif %}
+				{% if settings.box.type == '0' and mobile != 'true' %}
+					data-popup-type ="colorbox"
+					data-popup-fadeOut = "{{ settings.box.fadeOut|default(300) }}"
+				{% endif %}
+				{% if settings.box.type == '1' and mobile != 'true' and settings.box.enabled|default('true') == 'true' %}
+					data-popup-type = "pretty-photo"
+				{% endif %}
+				{% if settings.box.type == '2' and mobile != 'true' and settings.box.enabled|default('true') == 'true' %}
+					data-popup-type = "photobox"
+				{% endif %}
+				{% if settings.area.grid == '3' %}
+					data-columns-number = {{ settings.general.columns.number }}
+				{% endif %}
+				{% if settings.box.captions == 'on' %}
+					data-popup-captions = 'hide'
+				{% endif %}
+
+				{% if settings.box.popupwidth == '' %} 
+					data-popup-widthsize = "auto" 
+				{% else %} 
+					data-popup-widthsize = "{{ settings.box.popupwidth }}" 
+				{% endif %}
+
+				{% if settings.box.popupheight == '' %} 
+					data-popup-heightsize = "auto" 
+				{% else %} 
+					data-popup-heightsize = "{{ settings.box.popupheight }}" 
+				{% endif %}
+			data-popup-slideshow = "{{ settings.box.slideshow|default('false') }}"
+			data-popup-slideshow-speed = "{{ settings.box.slideshowSpeed|default(2500) }}"
+			data-popup-hoverstop = "{{ settings.box.popupHoverStop|default('false') }}"
+			data-popup-slideshow-auto = "{{ settings.box.slideshowAuto|default('false') }}"
+			data-popup-background = "{{ settings.box.background }}"
+			data-popup-transparency = "{{ settings.box.transparency|default(30) }}"
+			data-fullscreen="{{ settings.fullscreen.enabled }}"
+			data-hide-tooltip="{{ settings.thumbnail.tooltip }}"
+			data-caption-font-family="{{ settings.thumbnail.overlay.font_family }}"
+			data-caption-mobile="{{ settings.thumbnail.isMobile|default('false') }}"
+			{% if settings.thumbnail.overlay.effect == 'polaroid' %}
+				data-polaroid-animation="{{ settings.thumbnail.overlay.polaroidAnimation  | default('true') }}"
+				data-polaroid-scattering="{{ settings.thumbnail.overlay.polaroidScattering | default('true') }}"
+				data-polaroid-frame-width="{{ settings.thumbnail.overlay.polaroidFrameWidth | default(20) }}"
+			{% endif %}
+			{% if settings.area.grid == '3' %}
+				data-responsive-colums="{{ settings.general.responsiveColumns|default("")|json_encode }}"
+			{% endif %}
+			data-caption-font-family="{{ settings.thumbnail.overlay.font_family }}"
+			{% if settings.horizontalScroll is defined and settings.horizontalScroll.enabled == 'true'  %}
+				data-horizontal-scroll="{{ settings.horizontalScroll|json_encode }}"
+			{% endif %}
+
+			class="grid-gallery
+				{% if settings.area.grid == '1' %}
+					grid-gallery-fluid-height
+				{% else %}
+					grid-gallery-fixed
+				{% endif %}
+
+				{% if settings.thumbs.enable == '1' %}
+					grid-gallery-thumbs
+				{% endif %}
+
+				{% if environment.getConfig().get('optimizations') == 1 and environment.isPro() == false %}
+						optimizations
+				{% endif %}"
+			style="
+				width:{{ settings.area.width ~ settings.area.width_unit|replace(['px', '%']) }};
+				height:{{ settings.area.height | default('auto') }}
+					{% if settings.area.height != 'auto' and settings.area.height != null %}px {% endif %};
+				{% if settings.area.position == '1' or settings.area.position == 'left'  %}
+					float: left
+				{% endif %}
+				{% if settings.area.position == '2' or settings.area.position == 'right' %}
+					float:right
+				{% endif %}
+				{% if  settings.area.position == 'center' %}
+				margin-left:auto;
+				margin-right:auto;
+				{% endif %}
+			{% if settings.fullscreen.enabled %}position: fixed; z-index: 9999999; top: 0; left: 0; background-color: white;{% else %}position:relative;{% endif %}"
+		{% endblock %}>
+
+		{% if settings.preload.enabled == 'true' or settings.preload.enabled == null %}
+			{% if settings.preload.icon_name == 'default' or environment.isPro() != true or settings.preload.enabled == null %}
+				<div class="gallery-loading">
+					<div class="blocks">
+						<div class="block"></div>
+						<div class="block"></div>
+						<div class="block"></div>
+						<div class="block"></div>
+					</div>
+				</div>
+			{% else %}
+				<div class="gallery-loading">
+					<div class="la-{{ settings.preload.icon_name }}" style="color: {{ settings.preload.background }}">
+						{% for i in 1..settings.preload.icon_items %}
+							<div></div>
+						{% endfor %}
+					</div>
+				</div>
+			{% endif %}
+		{% endif %}
+
+		{% block photos_before %}
+		{% endblock %}
+
+		<section
+			{% block photos_attributes %}
+				id="photos-{{ gallery.id }}"
+				class="grid-gallery-photos"
+			{% endblock %}>
+
+			{% block photos %}
+				{% for photo in gallery.photos %}
+					{% include '@galleries/shortcode/helpers.twig' with {'photo': photo, 'settings': settings} only %}
+				{% endfor %}
+			{% endblock %}
+
+			<div class="grid-gallery-clearfix"></div>
+		</section>
+		
+		<div class="grid-gallery-clearfix"></div>
+
+		{% block photos_after %}
+		{% endblock %}
+	</section>
+
+	<style>
+		#cboxLoadedContent iframe { margin: 0; padding: 0;}
+	</style>
+	
+	<!-- Gallery by Supsystic plugin {{ environment.getConfig().get('plugin_version') }}  {% if environment.isPro() == true %} / {{ environment.getConfig().get('pro_plugin_version') }}{% endif %} -->
+{% endif %}

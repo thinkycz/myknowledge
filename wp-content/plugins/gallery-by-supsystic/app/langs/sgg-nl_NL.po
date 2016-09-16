@@ -1,0 +1,798 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Caforio Marco <marco@e-viva.be>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"Language: nl_NL\n"
+
+msgid "An error has occurred"
+msgstr "Er heeft zich een fout voorgedaan"
+
+msgid "New Gallery"
+msgstr "Nieuwe gallerij"
+
+msgid "Galleries"
+msgstr "Galerijen"
+
+msgid "Images"
+msgstr "Beelden"
+
+msgid "Instagram"
+msgstr "Instagram"
+
+msgid "Flickr"
+msgstr "Flickr"
+
+msgid "Settings"
+msgstr "Instellingen"
+
+msgid "Get PRO"
+msgstr "Neem PRO"
+
+msgid "Loading"
+msgstr "Aan het laden"
+
+msgid "Empty user data."
+msgstr "Lege gebruikersdata"
+
+msgid "Gallery by Supsystic"
+msgstr "Gallery by Supsystic"
+
+msgid "Upload your images from the Flickr Media Library"
+msgstr "Doe een upload van je Flickr-beelden via de media bibliotheek"
+
+msgid "Upload from Flickr"
+msgstr "Laad op vanuit Flickr"
+
+msgid "Rename folder"
+msgstr "Hernoem map"
+
+msgid "Folder name:"
+msgstr "Map naam:"
+
+msgid "Add images to the gallery"
+msgstr "Voeg beelden toe aan de gallerij"
+
+msgid "Please wait while the plugin to get the list of galleries..."
+msgstr "Ogenblikje wachten om de lijst van gallerijen te zien..."
+
+msgid "Select the gallery:"
+msgstr "Selecteer gallerij:"
+
+msgid "New folder"
+msgstr "Nieuwe folder"
+
+msgid "Add images to the new gallery"
+msgstr "Voeg nieuwe beelden toe aan de gallerij"
+
+msgid "Gallery title:"
+msgstr "Gallerie titel:"
+
+msgid "Upload new images"
+msgstr "Upload neiuwe beelden"
+
+msgid "Import images"
+msgstr "Importeer beelden"
+
+msgid "Logout"
+msgstr "Log uit"
+
+msgid "Select/unselect all photos"
+msgstr "Selecteer/deselecteer alle fotos"
+
+msgid "Refresh Images List"
+msgstr "Ververs beelden"
+
+msgid "Add the selected items to the existing gallery"
+msgstr "Voeg geselecteerde onderwerpen toe aan de gallerij"
+
+msgid "Add selected to the gallery"
+msgstr "Voeg geselecteerde aan gallerij"
+
+msgid "Show icons"
+msgstr "Toon iconen"
+
+msgid "No"
+msgstr "Geen"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "Select effect"
+msgstr "Selecteer effecten"
+
+msgid "Icons color"
+msgstr "Icoon kleur"
+
+msgid "Icons hover color"
+msgstr "Zwevende kleur over iconen"
+
+msgid "Background color"
+msgstr "Achtergrondkleur"
+
+msgid "Background hover color"
+msgstr "Zwevende achtergrondkleur"
+
+msgid "Icons size"
+msgstr "Icoon grootte"
+
+msgid "Distance between icons"
+msgstr "Afstand tussen iconen"
+
+msgid "Show overlay"
+msgstr "Toon bedekking"
+
+msgid "Overlay color"
+msgstr "Bedekkingskleur"
+
+msgid "Overlay transparency"
+msgstr "Bedekkings transparantie"
+
+msgid "Enable shuffling animation"
+msgstr "Activeer schuivende animatie"
+
+msgid "Animation duration"
+msgstr "Animatie duur"
+
+msgid "Posts layout"
+msgstr "Posts layout"
+
+msgid "Posts layout style"
+msgstr "Posts layout stijling"
+
+msgid "Posts"
+msgstr "Posts"
+
+msgid "Pages"
+msgstr "Paginas"
+
+msgid "Show author"
+msgstr "Toon auteur"
+
+msgid "Show date"
+msgstr "Toon datum"
+
+msgid "Show contents"
+msgstr "Toon inhoud"
+
+msgid "Image"
+msgstr "Beeld"
+
+msgid "Author"
+msgstr "Auteur"
+
+msgid "Title"
+msgstr "Tittel"
+
+msgid "Comments"
+msgstr "Comentaren"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Show categories"
+msgstr "Toon categori�n"
+
+msgid "Position"
+msgstr "Positie"
+
+msgid "Over the gallery"
+msgstr "Boven de gallerij"
+
+msgid "Under the gallery"
+msgstr "Onder de gallerij"
+
+msgid "Align"
+msgstr "Lijn uit"
+
+msgid "Left"
+msgstr "Links"
+
+msgid "Center"
+msgstr "Midden"
+
+msgid "Right"
+msgstr "Rechts"
+
+msgid "Container background"
+msgstr "Containder achtergrond"
+
+msgid "Hide container background."
+msgstr "Laat container-achtergrondkleur niet zien"
+
+msgid "Text background"
+msgstr "Text achtergrond"
+
+msgid "Hide text background."
+msgstr "Verberg text-achtergrond"
+
+msgid "Text color"
+msgstr "Tekst kleur"
+
+msgid "Use color, based on my theme."
+msgstr "Gebruik een kleur gebasseerd op mijn gekozen thema"
+
+msgid "Vertical padding"
+msgstr "Verticale padding"
+
+msgid "Horizontal padding"
+msgstr "Horizontale padding"
+
+msgid "Font weight"
+msgstr "Letter dikte"
+
+msgid "Normal"
+msgstr "Normaal"
+
+msgid "Bold"
+msgstr "Vet"
+
+msgid "Font size"
+msgstr "Letter grootte"
+
+msgid "Border width"
+msgstr "Randgrootte"
+
+msgid "Border type"
+msgstr "Boor stijl"
+
+msgid "Border color"
+msgstr "Boord kleur"
+
+msgid "Border radius"
+msgstr "Boord radius"
+
+msgid "Enable pagination"
+msgstr "Paginanummering actief"
+
+msgid "Images per page"
+msgstr "Beelden per pagina"
+
+msgid "Buttons position"
+msgstr "Knoppen positie"
+
+msgid "Top"
+msgstr "Boven"
+
+msgid "Bottom"
+msgstr "Onder"
+
+msgid "Select icons effects"
+msgstr "Selecteer icoon-effecten"
+
+msgid "Click on the icon to select effect"
+msgstr "Klik op het icoon om effect te kiezen"
+
+msgid "New gallery successfully created"
+msgstr "Nieuwe gallerij succesvol aangemaakt"
+
+msgid "Title successfully updated"
+msgstr "Tittel succesvol ge�pdated"
+
+msgid "Not enough data."
+msgstr "Niet genoeg data"
+
+msgid "Preset successfully saved."
+msgstr "Ingestelde succesvol bewaard"
+
+msgid "The preset ID is not specified."
+msgstr "De voorinstelling ID is niet gespecifi�erd"
+
+msgid "Preset successfully removed."
+msgstr "Instelling succesvol verwijderd"
+
+msgid "Failed to find the preset."
+msgstr "Vooringestelde niet gevonden."
+
+msgid "Preset successfully applied to the gallery."
+msgstr "Instelling succevol toegepast op de gallerij."
+
+msgid "Unnamed gallery"
+msgstr "Onbenoemde gallerij"
+
+msgid "The identifier of the gallery is invalid"
+msgstr "Gebruiker van de gallerij is ongeldig"
+
+msgid "Title is empty"
+msgstr "Titel is niet ingevuld"
+
+msgid "Failed to rename the gallery"
+msgstr "Gallerij hernoemen mislukt"
+
+msgid "Invalid gallery identifier specified"
+msgstr "Ongeldige gebruiker van de gallerij opgemerkt"
+
+msgid "Failed to delete the gallery"
+msgstr "Wissen gallerij mislukt"
+
+msgid "Resources are does not exists"
+msgstr "Bron bestaat niet"
+
+msgid "The identifier of the Gallery is not specified"
+msgstr "De gebruiker van de gallerij is niet gespecifi�erd"
+
+msgid "New gallery"
+msgstr "Nieuwe gallerij"
+
+msgid "Add selected items"
+msgstr "Voeg geselecteerde items toe"
+
+msgid "Cancel"
+msgstr "Annuleer"
+
+msgid "Add images"
+msgstr "Voeg beelden toe"
+
+msgid ""
+"You need to import images to your gallery before you can start using "
+"galleries"
+msgstr ""
+"Je moet eerst beelden importeren vooralleer je gallerijen kan gebruiken"
+
+msgid "Remove selected"
+msgstr "Verwijder geselecteerde"
+
+msgid "Select/unselect all posts"
+msgstr "Selecteer/deselecteer alle artikelen"
+
+msgid "Add new gallery"
+msgstr "Voeg nieuwe gallerij toe"
+
+msgid "Edit"
+msgstr "Verander"
+
+msgid "Preview"
+msgstr "Preview"
+
+msgid "There are %s photos in the gallery %s"
+msgstr "Er zijn %s fotos in de gallerij %s"
+
+msgid "Select shortcode for the gallery "
+msgstr "Selecteer snelcode voor de gallerij"
+
+msgid "You have not any galleries"
+msgstr "Je hebt geen gallerijen"
+
+msgid "You don't have any galleries yet."
+msgstr "Je hebt nog geen enkele gallerij."
+
+msgid "Want to create one right now?"
+msgstr "Wil je nu ��n maken?"
+
+msgid "What is a gallery"
+msgstr "Wat is een gallerij"
+
+msgid ""
+"<strong>Gallery</strong> — the highest type of entity in the Supsystic by "
+"GalleryGallery."
+msgstr ""
+"<strong>Gallerij</strong> — de hoogste etentiteit van Gallery by Supsystic."
+
+msgid ""
+"You can have an unlimited number of galleries, to which you can attach the "
+"preloaded pictures and folders."
+msgstr ""
+"Je kan oneindig aantal gallerijen aanmaken, waaraan je mappen en beelden kan "
+"aan koppelen."
+
+msgid ""
+"Each gallery has a number of display settings and behaviors that you can "
+"save to presets and apply to other galleries."
+msgstr ""
+"Iedere gallerij heeft een aantal mogelijkheden om in te stellen. Deze kan je "
+"als voorinstelling bewaren om te kunnen gebruiken bij andere gallerijen."
+
+msgid "Wanna know more?"
+msgstr "Wil je meer weten?"
+
+msgid "Help"
+msgstr "Hulp"
+
+msgid "Visit %s section to read more information about the galleries."
+msgstr "Bezoek %s dit onderwerp hier om meer te leren over gallerijen."
+
+msgid "Create new gallery"
+msgstr "Maak een nieuwe gallerij"
+
+msgid "Gallery title can't be empty!"
+msgstr "De gallerij moet een titel bevatten"
+
+msgid "Save"
+msgstr "Bewaar"
+
+msgid "Back to the gallery"
+msgstr "Terug naar gallerij"
+
+msgid "Images list"
+msgstr "Beelden lijst"
+
+msgid "Delete"
+msgstr "Verwijder"
+
+msgid "Area"
+msgstr "Regio"
+
+msgid "Border"
+msgstr "Rand"
+
+msgid "Shadow"
+msgstr "Schaduw"
+
+msgid "Caption"
+msgstr "Onderschrift"
+
+msgid "Big image"
+msgstr "Groot beeld"
+
+msgid "Icons"
+msgstr "Iconen"
+
+msgid "Categories"
+msgstr "Categori�n"
+
+msgid "Pagination"
+msgstr "Paginanummering"
+
+msgid "Images shuffling"
+msgstr "Beelden schuffelen"
+
+msgid "Post feed"
+msgstr "Bericht content"
+
+msgid "Properties"
+msgstr "Eigenschappen"
+
+msgid "Grid"
+msgstr "Raster"
+
+msgid "Distance between photos"
+msgstr "Afstand tussen fotos"
+
+msgid "Gallery width"
+msgstr "Gallerij breedte"
+
+msgid "Gallery height"
+msgstr "Gallerij hoogte"
+
+msgid "Photo width"
+msgstr "Foto breedte"
+
+msgid "Photo height"
+msgstr "Foto hoogte"
+
+msgid "Use shadow"
+msgstr "Gebruik schaduw"
+
+msgid "When mouse is over"
+msgstr "Indien muis over"
+
+msgid "Overlay image with shadow"
+msgstr "Bedekking beeld met schaduw"
+
+msgid "Shadow color"
+msgstr "Schaduw kleur"
+
+msgid "Shadow blur"
+msgstr "Wazige shaduw"
+
+msgid "Shadow X"
+msgstr "Schaduw X-as"
+
+msgid "Shadow Y"
+msgstr "Schaduw Y-as"
+
+msgid "Effect"
+msgstr "Effect"
+
+msgid "Show caption"
+msgstr "Toon onderschrift"
+
+msgid "Choose effect"
+msgstr "Kies effect"
+
+msgid "Transparency"
+msgstr "Transparantheid"
+
+msgid "Text size"
+msgstr "Tekst grootte"
+
+msgid "Text align"
+msgstr "Tekst uitlijning"
+
+msgid "Theme"
+msgstr "Thema"
+
+msgid "Choose theme"
+msgstr "Kies thema"
+
+msgid "Transition"
+msgstr "Transitie"
+
+msgid "Elastic"
+msgstr "Elastiticiteit"
+
+msgid "Fade"
+msgstr "Vervaag"
+
+msgid "None"
+msgstr "Geen"
+
+msgid "Transition speed"
+msgstr "Tansitie snelheid"
+
+msgid "Close speed"
+msgstr "Sluiting tijd"
+
+msgid "Slideshow"
+msgstr "Slideshow"
+
+msgid "Disabled"
+msgstr "Uit"
+
+msgid "Enabled"
+msgstr "Aan"
+
+msgid "Slideshow speed"
+msgstr "Slideshow snellheid"
+
+msgid "Slideshow autostart"
+msgstr "Slideshow automatische start"
+
+msgid "Shortcode"
+msgstr "Insluitcode"
+
+msgid "Use this shortcode to insert the gallery \"%s\" on the pages or posts."
+msgstr ""
+"Gebruik de code om de gallerij in te voegen \"%s\" op paginas en berichten."
+
+msgid ""
+"If you new to current feature, then you can read more about shortcodes in "
+"the <a href=\"http://en.support.wordpress.com/shortcodes/\">official "
+"wordpress documentation</a>."
+msgstr ""
+"Indien je meer wil weten over insluitcodes kijk dan bij de <a href=\"http://"
+"en.support.wordpress.com/shortcodes/\">officiele wordpress documentatie</a>."
+
+msgid "Cover"
+msgstr "Coverbeeld"
+
+msgid "Sort and orginize images with \"Categories\" option"
+msgstr "Sorteer en organiseer beelden met  \"Categories\" optie "
+
+msgid "Save settings as preset"
+msgstr "Bewaar instellingen als vooringestelde"
+
+msgid "Preset title:"
+msgstr "Vooringestelde titel:"
+
+msgid "Delete preset"
+msgstr "Verwijder vooringestelde"
+
+msgid "Are you really want to delete preset \"%s\"?"
+msgstr "Ben je zeker om deze instelling te wissen \"%s\"?"
+
+msgid "Load settings from presets"
+msgstr "Laad instellingen vanuit vooringestelden."
+
+msgid "Select preset:"
+msgstr "Selecteer vooringestelde:"
+
+msgid "Failed to load the presets."
+msgstr "Inladen instellingen mislukt."
+
+msgid "Currently you have no presets."
+msgstr "Er zijn momenteel geen instellingen"
+
+msgid "Select \"Big image\" theme"
+msgstr "Selecteer \"Big image\" thema"
+
+msgid "Select a theme"
+msgstr "Selecteer thema"
+
+msgid "Select overlay effect"
+msgstr "Selecteer bedekkingseffect"
+
+msgid "Live preview"
+msgstr "Live preview"
+
+msgid "Page "
+msgstr "Pagina"
+
+msgid "Delete image"
+msgstr "Verwijder beeld"
+
+msgid "Switch to the list view"
+msgstr "Schakel om naar lijst weergave"
+
+msgid "Switch to the block view"
+msgstr "Schakel om naar blok weergave"
+
+msgid "The gallery is does not exists"
+msgstr "De gallerij bestaat niet"
+
+msgid "Currently this gallery has no images"
+msgstr "Op dit ogenblik bevat deze gallerij geen beelden"
+
+msgid "Authorization code is not specified."
+msgstr "Authorisatiecode is niet gespecifi�erd"
+
+msgid "Upload your images from the Instagram Media Library"
+msgstr "Laad je beelden in van je Instagram mediabibliotheek"
+
+msgid "Upload from Instagram"
+msgstr "Laad op vannuit Instagram"
+
+msgid "Unable to save chosen photo %s: %s"
+msgstr "Foto opslaan mislukt %s: %s"
+
+msgid "New Folder"
+msgstr "Nieuwe map"
+
+msgid "The title can't be empty"
+msgstr "Titel mag niet leeg zijn"
+
+msgid "Failed to update position."
+msgstr "Positie update mislukt"
+
+msgid "Position updated successfully!"
+msgstr "Positie update gelukt!"
+
+msgid "Create new folder"
+msgstr "Maak nieuwe map aan"
+
+msgid "Edit selected item"
+msgstr "Verander geselecteerde item"
+
+msgid "Delete selected items"
+msgstr "Verwijder geselecteerde item"
+
+msgid "Create new gallery from the selected items"
+msgstr "Maak nieuwe gallerij vannuit de geselecteerden"
+
+msgid "New gallery from selected"
+msgstr "Nieuwe gallerij vannuit deze geselecteerden"
+
+msgid "Upload your images from the Wordpress Media Library"
+msgstr "Laad je beelden op naar de mediagallerij van Wordpress"
+
+msgid "All photos"
+msgstr "Alle beelden"
+
+msgid "Drop photos here to move them from the folder"
+msgstr "Sleep fotos hierheen om ze uit de map te verplaatsen"
+
+msgid "Lifetime for cached data"
+msgstr "Levenslange caching voor data"
+
+msgid "The field \"%s\" available only for numeric values"
+msgstr "Het veld \"%s\" is enkel numeriek"
+
+msgid "Settings successfully updated!"
+msgstr "Instellingen succesvol bewaard"
+
+msgid "Please correct following errors:"
+msgstr "Verander AUB volgende fouten:"
+
+msgid ""
+"<strong>%s</strong> has its own caching system in order to significantly "
+"reduce the load on the database."
+msgstr ""
+"<strong>%s</strong> heeft zijn eigen cachingssysteem dat de performantie van "
+"de database beduidend kan versnellen."
+
+msgid ""
+"Caching is not available because your uploads directory is not writable."
+msgstr "Caching is onmoegelijk. De map is niet schrijfbaar."
+
+msgid ""
+"The time in seconds after which the cache will be considered obsolete. "
+"Default: 86400 (24 hours)."
+msgstr ""
+"De tijd in seconden die nodig is om de caching als voldaan te beschouwen. "
+"Standaard: 86400 (24 hours)."
+
+msgid "Clear cache"
+msgstr "Leeg cachegeheugen"
+
+msgid ""
+"We don't collect statistics on you, we only collect the errors encountered "
+"during use in order to improve our product."
+msgstr ""
+"We verzamelen geen gegevens over u, we verzamelen enkel de fouten om zo ons "
+"product te verbeteren."
+
+msgid "Edit image"
+msgstr "Bewerk beeld"
+
+msgid "Main"
+msgstr "Hoofd"
+
+msgid "SEO"
+msgstr "SEO optimatisatie"
+
+msgid "Description"
+msgstr "Omschrijving"
+
+msgid "Alternative text"
+msgstr "Alternatieve tekst"
+
+msgid "External link"
+msgstr "Externe link"
+
+msgid "Available in PRO version."
+msgstr "Beschikbaar in PRO versie"
+
+msgid "Link"
+msgstr "Link"
+
+msgid "Open in new window"
+msgstr "Open in nieuw venster"
+
+msgid "Embeded video"
+msgstr "Sluit video in"
+
+msgid "Video URL"
+msgstr "Video URL"
+
+msgid ""
+"Supports Youtube and Vimeo. URL will be converted to embed automatically."
+msgstr ""
+"Ondersteund Youtube en Vimeo. De URL zal automatisch omgezet worden om "
+"kunnen in te sluiten"
+
+msgid "File"
+msgstr "Bestand"
+
+msgid "Select %s"
+msgstr "Selecteer %s"
+
+msgid "photo"
+msgstr "foto"
+
+msgid "photos"
+msgstr "fotos"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Tags"
+msgstr "Tags"
+
+msgid "http://example.com/"
+msgstr "http://voorbeeld.com/"
+
+msgid "Open in new window."
+msgstr "Open in nieuw venster."
+
+msgid "Welcome to"
+msgstr "Welkom tot"
+
+msgid "Version"
+msgstr "Versie"
+
+msgid "Google"
+msgstr "Google"
+
+msgid "Wordpress.org"
+msgstr "Wordpress.org"
+
+msgid "Reffer a friend"
+msgstr "Vertel een vriend"
+
+msgid "Find on the web"
+msgstr "Vind op het web"
+
+msgid "Other way"
+msgstr "Anders"
+
+msgid "Thank for check info. Start using plugin"
+msgstr "Dank u om de info te verifi�ren. Begin de plugin te gebruiken"

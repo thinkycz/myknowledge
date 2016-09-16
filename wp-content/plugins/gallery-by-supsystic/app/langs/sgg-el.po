@@ -1,0 +1,887 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: gird-gallery-el\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "An error has occurred"
+msgstr "Παρουσιάστηκε σφάλμα"
+
+msgid "Overview"
+msgstr "Επισκόπηση"
+
+msgid "New Gallery"
+msgstr "Νέα Γκαλερί"
+
+msgid "Galleries"
+msgstr "Γκαλερί"
+
+msgid "License"
+msgstr "Άδεια"
+
+msgid "Images"
+msgstr "Εικόνες"
+
+msgid "Instagram"
+msgstr "Instagram"
+
+msgid "Flickr"
+msgstr "Flickr"
+
+msgid "Tumblr"
+msgstr "Tumblr"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+msgid "Get PRO"
+msgstr "Αγοράστε την PRO έκδοση"
+
+msgid "Loading"
+msgstr "Φόρτωση"
+
+msgid "Authorization code is not specified."
+msgstr "Ο κωδικός έγκρισης δεν έχει καθοριστεί."
+
+msgid "Gallery by Supsystic"
+msgstr "Gallery by Supsystic"
+
+msgid "Upload your images from the Facebook Media Library"
+msgstr "Ανεβάστε τις φωτογραφίες σας από το Facebook Media Library"
+
+msgid "Login with Facebook"
+msgstr "Σύνδεση με το Facebook"
+
+msgid "Upload new images"
+msgstr "Ανεβάστε νέες εικόνες"
+
+msgid "Import images"
+msgstr "Εισαγωγή εικόνων"
+
+msgid "Logout"
+msgstr "Αποσύνδεση"
+
+msgid "Select/unselect all photos"
+msgstr "Επιλέξτε / απεπιλέξτε όλες τις φωτογραφίες"
+
+msgid "Empty user data."
+msgstr "Αδειάστε τα δεδομένα του χρήστη."
+
+msgid "Upload your images from the Flickr Media Library"
+msgstr "Ανεβάστε τις φωτογραφίες σας από το Flickr Media Library"
+
+msgid "Upload from Flickr"
+msgstr "Μεταφόρτωση από το Flickr"
+
+msgid "Show icons"
+msgstr "Εμφάνιση εικονιδίων"
+
+msgid "No"
+msgstr "Όχι"
+
+msgid "Yes"
+msgstr "Ναι"
+
+msgid "Available"
+msgstr "Διαθέσιμο"
+
+msgid "Disable"
+msgstr "Απενεργοποίηση"
+
+msgid "Select effect"
+msgstr "Επιλέξτε εφφέ"
+
+msgid "Animation"
+msgstr "Κίνηση"
+
+msgid "Icons color"
+msgstr "Χρώμα εικονιδίων"
+
+msgid "Icons hover color"
+msgstr "Χρώμα αιωρούντων εικονιδίων"
+
+msgid "Background color"
+msgstr "Χρώμα φόντου"
+
+msgid "Background hover color"
+msgstr "Χρώμα φόντου που αιωρείται"
+
+msgid "Icons size"
+msgstr "Μέγεθος εικονιδίων"
+
+msgid "Distance between icons"
+msgstr "Απόσταση μεταξύ των εικονιδίων"
+
+msgid "Show overlay"
+msgstr "Εμφάνιση επικάλυψης"
+
+msgid "Overlay color"
+msgstr "Χρώμα επικάλυψης"
+
+msgid "Overlay transparency"
+msgstr "Διαφάνεια επικάλυψης"
+
+msgid "Posts layout"
+msgstr "Διάταξη δημοσιεύσεων"
+
+msgid "Posts layout style"
+msgstr "Στυλ διάταξη δημοσιεύσεων"
+
+msgid "Posts"
+msgstr "Δημοσιεύσεις"
+
+msgid "Pages"
+msgstr "Σελίδες"
+
+msgid "Show author"
+msgstr "Εμφάνιση συγγραφέα"
+
+msgid "Show date"
+msgstr "Εμφάνιση ημερομηνίας"
+
+msgid "Show contents"
+msgstr "Εμφάνιση περιεχομένων"
+
+msgid "Show categories"
+msgstr "Εμφάνιση κατηγοριών"
+
+msgid "Enable shuffling animation"
+msgstr "Ενεργοποίηση κίνησης shuffle"
+
+msgid "Animation duration"
+msgstr "Διάρκεια κίνησης"
+
+msgid "Position"
+msgstr "Θέση"
+
+msgid "Over the gallery"
+msgstr "Πάνω από την γκαλερί"
+
+msgid "Under the gallery"
+msgstr "Κάτω από την γκαλερί"
+
+msgid "Align"
+msgstr "Ευθυγράμμιση"
+
+msgid "Left"
+msgstr "Αριστερά"
+
+msgid "Center"
+msgstr "Κέντρο"
+
+msgid "Right"
+msgstr "Δεξιά"
+
+msgid "Presets"
+msgstr "Προεπιλογές"
+
+msgid "Choose preset"
+msgstr "Επιλέξτε προεπιλογή"
+
+msgid "Preset Editor"
+msgstr "Επεξεργασία προεπιλογών"
+
+msgid "Enable pagination"
+msgstr "Ενεργοποίηση σελιδοποίησης"
+
+msgid "Pagination"
+msgstr "Σελιδοποίηση"
+
+msgid "Images per page"
+msgstr "Εικόνες ανά σελίδα"
+
+msgid "Buttons position"
+msgstr "Θέση κουμπιών"
+
+msgid "Top"
+msgstr "Κορυφή"
+
+msgid "Bottom"
+msgstr "Κάτω μέρος"
+
+msgid "Container background"
+msgstr "Φόντο πλαισίου"
+
+msgid "Hide container background."
+msgstr "Απόκρυψη φόντο πλαισίου."
+
+msgid "Text background"
+msgstr "Κείμενο φόντου"
+
+msgid "Hide text background."
+msgstr "Απόκρυψη κειμένου φόντου."
+
+msgid "Text color"
+msgstr "Χρώμα κειμένου"
+
+msgid "Use color, based on my theme."
+msgstr "Χρησιμοποιήστε χρώμα, με βάση το θέμα μου."
+
+msgid "Vertical padding"
+msgstr "Κάθετο διάστημα"
+
+msgid "Horizontal padding"
+msgstr "Οριζόντιο διάστημα"
+
+msgid "Font weight"
+msgstr "Βάρος γραμματοσειράς"
+
+msgid "Font size"
+msgstr "Μέγεθος γραμματοσειράς"
+
+msgid "Border width"
+msgstr "Πλάτος περιγράμματος"
+
+msgid "Border type"
+msgstr "Τύπος περιγράμματος"
+
+msgid "Border color"
+msgstr "Χρώμα επικάλυψης"
+
+msgid "Border radius"
+msgstr "Ακτίνα των συνόρων"
+
+msgid "Select icons effects"
+msgstr "Επιλέξτε εφέ εικονιδίων"
+
+msgid "Click on the icon to select effect"
+msgstr "Κάντε κλικ στο εικονίδιο για να επιλέξετε την επίδραση"
+
+msgid "Select categories preset"
+msgstr "Επιλέξτε κατηγορίες προκαθορισμένο"
+
+msgid "Categories preset editor"
+msgstr "Κατηγορίες πρόγραμμα επεξεργασίας προκαθορισμών"
+
+msgid "Preset name"
+msgstr "Όνομα υποδείγματος"
+
+msgid "Normal"
+msgstr "Κανονικό"
+
+msgid "Bold"
+msgstr "Bold"
+
+msgid "Select pagination preset"
+msgstr "Επιλέξτε σελιδοποίηση προκαθορισμένου"
+
+msgid "Pages preset editor"
+msgstr "Προκαθορισμένο πρόγραμμα επεξεργασίας σελίδων"
+
+msgid "Check"
+msgstr "Έλεγχος"
+
+msgid "Authorization oauth_verifier is not specified."
+msgstr "Η Oauth_verifier άδεια δεν έχει καθοριστεί."
+
+msgid "Upload your images from the Tumblr Media Library"
+msgstr "Ανεβάστε τις φωτογραφίες σας από τη βιβλιοθήκη πολυμέσων Tumblr"
+
+msgid "Upload from Tumblr"
+msgstr "Ανεβάσετε από Tumblr"
+
+msgid "New gallery successfully created"
+msgstr "Η νέα συλλογή δημιουργήθηκε με επιτυχία"
+
+msgid "Title successfully updated"
+msgstr "Ο Τίτλος ενημερώθηκε με επιτυχία"
+
+msgid "Not enough data."
+msgstr "Δεν υπάρχουν επαρκή δεδομένα."
+
+msgid "Preset successfully saved."
+msgstr "Ο προκαθορισμός αποθηκεύτηκε με επιτυχία."
+
+msgid "The preset ID is not specified."
+msgstr "Το προκαθορισμένο ID δεν προσδιορίζεται."
+
+msgid "Preset successfully removed."
+msgstr "Ο προκαθορισμός διαγράφτηκε  με επιτυχία."
+
+msgid "Failed to find the preset."
+msgstr "Αποτυχία εύρεσης προκαθορισμού."
+
+msgid "Preset successfully applied to the gallery."
+msgstr "Ο προκαθορισμός προστέθηκε στην γκαλερί με επιτυχία."
+
+msgid "Unnamed gallery"
+msgstr "Απροσδιόριστη γκαλερί"
+
+msgid "The identifier of the gallery is invalid"
+msgstr "Το αναγνωριστικό της γκαλερί δεν είναι έγκυρο"
+
+msgid "Title is empty"
+msgstr "Τίτλος είναι άδειο"
+
+msgid "Failed to rename the gallery"
+msgstr "Απέτυχε η μετονομασία της γκαλερί"
+
+msgid "Invalid gallery identifier specified"
+msgstr "Μη έγκυρο αναγνωριστικό γκαλερί"
+
+msgid "Failed to delete the gallery"
+msgstr "Απέτυχε η διαγραφή της γκαλερί"
+
+msgid "Resources are does not exists"
+msgstr "Δεν υπάρχει πόροι "
+
+msgid "The identifier of the Gallery is not specified"
+msgstr "Δεν καθορίζεται το αναγνωριστικό της γκαλερί"
+
+msgid "New gallery"
+msgstr "Νέα Γκαλερί"
+
+msgid "Add Images"
+msgstr "Προσθήκη εικόνων"
+
+msgid "Add selected items"
+msgstr "Προσθήκη επιλεγμένων στοιχείων"
+
+msgid "Cancel"
+msgstr "Ακύρωση"
+
+msgid "You need to import images to your gallery before you can start using galleries"
+msgstr "Θα πρέπει να εισαγάγετε εικόνες στην γκαλερί σας για να μπορέσετε να αρχίσετε να την χρησιμοποιείτε"
+
+msgid "Choose image"
+msgstr "Επιλογή Εικόνας"
+
+msgid "Create new gallery"
+msgstr "Δημιουργήσετε νέα γκαλερί"
+
+msgid "Choose Gallery Template.You can change template and settings on the next step."
+msgstr "Επιλέξτε Προσχέδιο Γκαλερί. Μπορείτε να αλλάξετε το προσχέδιο και τις ρυθμίσεις στο επόμενο βήμα."
+
+msgid "Gallery Name:"
+msgstr "Όνομα γκαλερί:"
+
+msgid "Save"
+msgstr "Αποθήκευση"
+
+msgid "Choose Gallery Template."
+msgstr "Επιλέξτε το πρότυπο της γκαλερί."
+
+msgid "Remove selected"
+msgstr "Αφαίρεση επιλεγμένων"
+
+msgid "Select/unselect all posts"
+msgstr "Επιλογή/Κατάργηση όλων των μηνυμάτων"
+
+msgid "Images list"
+msgstr "Λίστα με εικόνες"
+
+msgid "Preview"
+msgstr "Προεπισκόπηση"
+
+msgid "Total Images: "
+msgstr "Συνολικές εικόνες:"
+
+msgid "There are %s photos in the gallery %s"
+msgstr "Υπάρχουν %s φωτογραφίες στην γκαλερί %s"
+
+msgid "Delete gallery"
+msgstr "Διαγραφή γκαλερί"
+
+msgid "You have not any galleries"
+msgstr "Δεν έχετε κάποια γκαλερί"
+
+msgid "You don't have any galleries yet."
+msgstr "Δεν έχετε ακόμα κάποια γκαλερί."
+
+msgid "Want to create one right now?"
+msgstr "Θέλετε να δημιουργήσετε μία αυτή τη στιγμή;"
+
+msgid "What is a gallery"
+msgstr "Τι είναι μια γκαλερί"
+
+msgid "<strong>Gallery</strong> â the highest type of entity in the Gallery by Supsystic."
+msgstr "<strong>Γκαλερί</strong> - το καλύτερο είδος για συλλογή φωτογραφιών από την Supsystic."
+
+msgid "You can have an unlimited number of galleries, to which you can attach the preloaded pictures."
+msgstr "Μπορείτε να έχετε έναν απεριόριστο αριθμό γκαλερί, στις οποία μπορείτε να επισυνάψετε εικόνες εκ των προτέρων."
+
+msgid "Each gallery has a number of display settings and behaviors that you can save to presets and apply to other galleries."
+msgstr "Κάθε γκαλερί έχει μια σειρά από ρυθμίσεις οθόνης και συμπεριφορές που μπορείτε να αποθηκεύσετε σε προεπιλογές και να εφαρμόζονται σε άλλες γκαλερί."
+
+msgid "Gallery title can't be empty!"
+msgstr "Ο τίτλος της γκαλερί δεν μπορεί να είναι άδειος!"
+
+msgid "Gallery title:"
+msgstr "Τίτλος συλλογής:"
+
+msgid "Back to the gallery"
+msgstr "Πίσω στη συλλογή"
+
+msgid "Main"
+msgstr "Αρχική"
+
+msgid "Captions"
+msgstr "Λεζάντες"
+
+msgid "Categories"
+msgstr "Κατηγορίες"
+
+msgid "Add images"
+msgstr "Προσθήκη εικόνων"
+
+msgid "Choose image for preview"
+msgstr "Επιλέξτε εικόνα για προεπισκόπηση"
+
+msgid "Shortcode:"
+msgstr "Σύντομία:"
+
+msgid "Gallery Type"
+msgstr "Τύπος Γκαλερί"
+
+msgid "Number of Columns"
+msgstr "Αριθμός στηλών"
+
+msgid "Images distance"
+msgstr "Απόσταση μεταξύ των εικόνων"
+
+msgid "Gallery width"
+msgstr "Γκαλερί πλάτος"
+
+msgid "Gallery height"
+msgstr "Γκαλερί ύψος"
+
+msgid "Image width"
+msgstr "Πλάτος εικόνας"
+
+msgid "Image height"
+msgstr "Ύψος εικόνας"
+
+msgid "Image radius"
+msgstr "Ακτίνα εικόνας"
+
+msgid "Border"
+msgstr "περίγραμμα"
+
+msgid "Border Type"
+msgstr "Τύπου περιγράμματος"
+
+msgid "Shadow"
+msgstr "Σκιά"
+
+msgid "Shadow preset"
+msgstr "Σκιά προκαθορισμένο"
+
+msgid "When mouse is over"
+msgstr "Όταν το ποντίκι είναι πάνω από"
+
+msgid "Off"
+msgstr "Ανενεργό"
+
+msgid "Show mouse on"
+msgstr "Εμφάνιση ποντίκι για"
+
+msgid "Hide mouse on"
+msgstr "Απόκρυψη ποντίκι στις"
+
+msgid "Overlay image with shadow"
+msgstr "Εικόνα επικάλυψης με σκιά"
+
+msgid "Shadow color"
+msgstr "Χρώμα Σκιάς"
+
+msgid "Shadow blur"
+msgstr "Σκιά, θαμπάδα"
+
+msgid "Shadow X"
+msgstr "Σκιά X"
+
+msgid "Shadow Y"
+msgstr "Σκιά Y"
+
+msgid "Pop-up Image"
+msgstr "Pop-up εικόνα"
+
+msgid "Choose theme"
+msgstr "Επιλέξτε το θέμα"
+
+msgid "Disable Popup"
+msgstr "Απενεργοποιήσετε Popup"
+
+msgid "Disable on mobile"
+msgstr "Θέστε εκτός λειτουργίας στο κινητό"
+
+msgid "Hide Popup Captions"
+msgstr "Απόκρυψη λεζαντών Popup"
+
+msgid "Theme"
+msgstr "Θέμα"
+
+msgid "Transition"
+msgstr "Μετάβαση"
+
+msgid "Choose effect"
+msgstr "Επιλέξτε εφφέ"
+
+msgid "Elastic"
+msgstr "Ελαστική"
+
+msgid "Fade"
+msgstr "Ξεθώριασμα"
+
+msgid "None"
+msgstr "Καμία"
+
+msgid "Transition speed"
+msgstr "Ταχύτητα μετάβασης"
+
+msgid "Close speed"
+msgstr "Ταχύτητα κλεισίματος"
+
+msgid "Slideshow"
+msgstr "Slideshow"
+
+msgid "Slideshow speed"
+msgstr "Ταχύτητα της παρουσίασης"
+
+msgid "Slideshow autostart"
+msgstr "Εκκίνηση της παρουσίασης"
+
+msgid "Effect"
+msgstr "Επιλέξτε εφφέ"
+
+msgid "Show caption"
+msgstr "Εμφάνιση λεζάντας"
+
+msgid "Transparency"
+msgstr "Διαφάνεια"
+
+msgid "Text size"
+msgstr "Μέγεθος κειμένου"
+
+msgid "Text align"
+msgstr "Στοίχιση κειμένου"
+
+msgid "Font family"
+msgstr "Οικογένεια γραμματοσειρών"
+
+msgid "Categorize images in the gallery"
+msgstr "Ταξινομήση εικόνων στη συλλογή"
+
+msgid "Let user switch gallery pages"
+msgstr "Επιτρέψτε τον χρήστη να μπορεί να αλλάξει τις σελίδες"
+
+msgid "Save settings as preset"
+msgstr "Αποθήκευση ρυθμίσεων ως πρωτότυπο"
+
+msgid "Preset title:"
+msgstr "Τίτλος πρωτότυπου:"
+
+msgid "Delete preset"
+msgstr "Διαγράψετε το πρωτότυπου "
+
+msgid "Are you really want to delete preset \"%s\"?"
+msgstr "Θέλετε να διαγράψετε το πρωτότυπο \"%s\";"
+
+msgid "Load settings from presets"
+msgstr "Φόρτωση ρυθμίσεων από πρωτότυπα"
+
+msgid "Select preset:"
+msgstr "Επιλέξτε πρωτότυπο:"
+
+msgid "Failed to load the presets."
+msgstr "Αποτυχία φόρτωσης πρωτότυπο."
+
+msgid "Currently you have no presets."
+msgstr "Αυτή τη στιγμή έχετε κάποιο πρωτότυπο."
+
+msgid "Select \"Big image\" theme"
+msgstr "Επιλέξτε το θέμα «Μεγάλη εικόνα»"
+
+msgid "Select a theme"
+msgstr "Επιλέξτε ένα θέμα"
+
+msgid "Select"
+msgstr "Επιλογή"
+
+msgid "Select overlay effect"
+msgstr "Επιλέξτε το εφέ υπέρθεσης"
+
+msgid "Select transition"
+msgstr "Επιλέξτε Μετάβαση"
+
+msgid "Select shadow preset"
+msgstr "Επιλέξτε σκιά προκαθορισμένο"
+
+msgid "Select shadow"
+msgstr "Επιλέξτε σκιά"
+
+msgid "Page "
+msgstr "Σελίδα"
+
+msgid "Choose source"
+msgstr "Επιλέξτε την πηγή"
+
+msgid "Import from WordPress Media Library"
+msgstr "Εισαγωγή από τη βιβλιοθήκη πολυμέσων WordPress"
+
+msgid "Import from social networks"
+msgstr "Εισαγωγή από κοινωνικά δίκτυα"
+
+msgid "Import from your Instagram account"
+msgstr "Εισαγωγής από το λογαριασμό σας Instagram"
+
+msgid "Import from your Flickr account"
+msgstr "Εισαγωγή από το Flickr λογαριασμό σας"
+
+msgid "Import from your Tumblr account"
+msgstr "Εισαγωγή από σας λογαριασμό Tumblr"
+
+msgid "Import from your Facebook account"
+msgstr "Εισαγωγή από το λογαριασμό σας στο Facebook"
+
+msgid "Get Pro to enable import"
+msgstr "Αγοράστε το Pro για να σας επιτραπεί η εισαγωγή"
+
+msgid "Properties"
+msgstr "Ιδιότητες"
+
+msgid "Delete Image"
+msgstr "Διαγραφή Εικόνας;"
+
+msgid "Switch to the list view"
+msgstr "Μεταβείτε σε προβολή λίστας"
+
+msgid "Switch to the block view"
+msgstr "Μεταβείτε στην προβολή του μπλοκ"
+
+msgid "The gallery is does not exists"
+msgstr "Η γκαλερί δεν υπάρχει"
+
+msgid "Currently this gallery has no images"
+msgstr "Αυτή η συλλογή φωτογραφιών δεν έχει εικόνες"
+
+msgid "Select source to import from"
+msgstr "Επιλέξτε την πηγή για την εισαγωγή από"
+
+msgid "Upload your images from the Instagram Media Library"
+msgstr "Ανεβάστε τις φωτογραφίες σας από το Instagram βιβλιοθήκη πολυμέσων"
+
+msgid "Upload from Instagram"
+msgstr "Ανεβάσετε από Instagram"
+
+msgid "Your name"
+msgstr "Το ονοματεπώνυμό σας"
+
+msgid "Your email"
+msgstr "Διεύθυνση ηλεκτρονικού ταχυδρομείου:"
+
+msgid "Website"
+msgstr "Ιστότοπος"
+
+msgid "Subject"
+msgstr "Θέμα"
+
+msgid "Topic"
+msgstr "Θέμα"
+
+msgid "Plugin options"
+msgstr "Επιλογές πρόσθετου"
+
+msgid "Report a bug"
+msgstr "Αναφορά σφάλματος"
+
+msgid "Require a new functionallity"
+msgstr "Λάβετε μία νέα λειτουργία"
+
+msgid "Other"
+msgstr "Άλλο"
+
+msgid "Type your message"
+msgstr "Πληκτρολογήστε το μήνυμά σας"
+
+msgid "Unable to save chosen photo %s: %s"
+msgstr "Αδύνατη η αποθήκευση επιλεγμένης φωτογραφίας %s: %s"
+
+msgid "New Folder"
+msgstr "Νέος φάκελος"
+
+msgid "The title can't be empty"
+msgstr "Ο τίτλος δεν μπορεί να είναι άδειος"
+
+msgid "Failed to update position."
+msgstr "Απέτυχε να ενημερώσει τη θέση."
+
+msgid "Position updated successfully!"
+msgstr "Η θέση ενημερώθηκε με επιτυχία!"
+
+msgid "Rename folder"
+msgstr "Μετονομάστε το φάκελο"
+
+msgid "Folder name:"
+msgstr "Όνομα φακέλου:"
+
+msgid "Add images to the gallery"
+msgstr "Προσθήκη εικόνων στην γκαλερί"
+
+msgid "Please wait while the plugin to get the list of galleries..."
+msgstr "Παρακαλώ περιμένετε ενώ το πρόσθετο να λάβει τον κατάλογο των γκαλερί ..."
+
+msgid "Select the gallery:"
+msgstr "Επιλέξτε συλλογή:"
+
+msgid "New folder"
+msgstr "Νέος φάκελος"
+
+msgid "Add images to the new gallery"
+msgstr "Προσθήκη εικόνων στην νέα γκαλερί"
+
+msgid "Create new folder"
+msgstr "Δημιουργήστε νέο φάκελο"
+
+msgid "Edit selected item"
+msgstr "Επεξεργαστείτε το επιλεγμένο στοιχείο"
+
+msgid "Delete selected items"
+msgstr "Διαγραφή επιλεγμένων στοιχείων"
+
+msgid "Create new gallery from the selected items"
+msgstr "Δημιουργήσετε νέα γκαλερί από τα επιλεγμένα στοιχεία"
+
+msgid "New gallery from selected"
+msgstr "Νέα γκαλερί από τα επιλεγμένα"
+
+msgid "Add the selected items to the existing gallery"
+msgstr "Προσθέστε τα επιλεγμένα στοιχεία στην υπάρχουσα γκαλερί"
+
+msgid "Add selected to the gallery"
+msgstr "Προσθήκη επιλεγμένων στη γκαλερί"
+
+msgid "Upload your images from the WordPress Media Library"
+msgstr "Ανεβάστε τις φωτογραφίες σας από το WordPress βιβλιοθήκη πολυμέσων"
+
+msgid "All photos"
+msgstr "Όλες οι φωτογραφίες"
+
+msgid "Drop photos here to move them from the folder"
+msgstr "Μεταφέρετε φωτογραφίες εδώ για να τις μετακινήσετε από το φάκελο"
+
+msgid "Lifetime for cached data"
+msgstr "Διάρκεια ζωής για τα προσωρινά αποθηκευμένα δεδομένα"
+
+msgid "The field \"%s\" available only for numeric values"
+msgstr "Το πεδίο \"%s\" είναι διαθέσιμο μόνο για αριθμητικές τιμές"
+
+msgid "Settings successfully updated!"
+msgstr "Οι ρυθμίσεις ενημερώθηκαν με επιτυχία!"
+
+msgid "Please correct following errors:"
+msgstr "Διορθώστε τα ακόλουθα σφάλματα:"
+
+msgid "<strong>%s</strong> has its own caching system in order to significantly reduce the load on the database."
+msgstr "<strong%s</strong> έχει το δικό του σύστημα caching, προκειμένου να μειωθεί σημαντικά το φορτίο στη βάση δεδομένων."
+
+msgid "Use this option only if all your galleries are setting correctly and you dont need to change settings soon"
+msgstr "Χρησιμοποιήστε αυτή την επιλογή μόνο αν όλες οι γκαλερί σας έχουν ρυθμιστεί και δεν χρειάζετε να τις αλλάξετε σύντομα"
+
+msgid "Caching is not available because your uploads directory is not writable."
+msgstr "Η προσωρινή μνήμη δεν είναι διαθέσιμη επειδή ο φάκελος uploads δεν είναι εγγράψιμος."
+
+msgid "The time in seconds after which the cache will be considered obsolete. Default: 86400 (24 hours)."
+msgstr "Ο χρόνος σε δευτερόλεπτα μετά τον οποίο η προσωρινή μνήμη θα λήξει. Προεπιλογή: 86400 (24 ώρες)."
+
+msgid "Clear cache"
+msgstr "Εκκαθάριση προσωρινής μνήμης"
+
+msgid "We don't collect statistics on you, we only collect the errors encountered during use in order to improve our product."
+msgstr "Δεν συλλέγουμε στατιστικά στοιχεία για εσάς, συλλέγουμε μόνο τα σφάλματα που προέκυψαν κατά τη χρήση, προκειμένου να βελτιώσουμε το προϊόν μας."
+
+msgid "Edit image"
+msgstr "Επεξεργασία εικόνας"
+
+msgid "Caption"
+msgstr "Λεζάντα"
+
+msgid "SEO"
+msgstr "SEO"
+
+msgid "Description"
+msgstr "Περιγραφή"
+
+msgid "Alternative text"
+msgstr "Εναλλακτικό κείμενο"
+
+msgid "External link"
+msgstr "Εξωτερικός σύνδεσμος"
+
+msgid "Available in PRO version."
+msgstr "Διατίθεται στην PRO έκδοση."
+
+msgid "Link"
+msgstr "Σύνδεσμος"
+
+msgid "Open in new window"
+msgstr "Άνοιγμα σε νέο παράθυρο"
+
+msgid "Embeded video"
+msgstr "Ενσωματωμένο βίντεο"
+
+msgid "Video URL"
+msgstr "URL Βίντεο"
+
+msgid "Supports Youtube and Vimeo. URL will be converted to embed automatically."
+msgstr "Υποστηρίζει το YouTube και το Vimeo. Τα URL θα μετατραπούν αυτόματα για ενσωμάτωση."
+
+msgid "Image"
+msgstr "Εικόνα"
+
+msgid "Date"
+msgstr "Ημερομηνία"
+
+msgid "Select %s"
+msgstr "Επιλέξτε %s"
+
+msgid "photo"
+msgstr "φωτογραφία"
+
+msgid "photos"
+msgstr "φωτογραφίες"
+
+msgid "Video"
+msgstr "Βίντεο"
+
+msgid "http://example.com/"
+msgstr "http://example.com/"
+
+msgid "Open in new window."
+msgstr "Άνοιγμα σε νέο παράθυρο."
+
+msgid "Welcome to"
+msgstr "Καλωσήρθες στο"
+
+msgid "Version"
+msgstr "Έκδοση"
+
+msgid "Google"
+msgstr "Google"
+
+msgid "Wordpress.org"
+msgstr "Wordpress.org"
+
+msgid "Reffer a friend"
+msgstr "Φέρτε έναν φίλο"
+
+msgid "Find on the web"
+msgstr "Βρείτε στο διαδίκτυο"
+
+msgid "Other way"
+msgstr "Άλλος τρόπος"
+
+msgid "Thank for check info. Start using plugin"
+msgstr "Ευχαριστούμε για τις πληροφορίες ελέγχου. Ξεκινήστε  να χρησιμοποιείτε το plugin"
